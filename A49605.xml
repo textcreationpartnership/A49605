@@ -1,0 +1,856 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ethice christiana, or, The school of wisdom wherein the grounds of moral philosophy are demonstrated to comply with the principles of Christian religion, by a mixt exercise of grace and vertu / written originally in French ... by M. De la Serre ; and done into English by J.A.</title>
+            <author>La Serre, M. de (Jean-Puget), ca. 1600-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 118 KB of XML-encoded text transcribed from 65 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49605</idno>
+            <idno type="STC">Wing L457</idno>
+            <idno type="STC">ESTC R24425</idno>
+            <idno type="EEBO-CITATION">08181072</idno>
+            <idno type="OCLC">ocm 08181072</idno>
+            <idno type="VID">41021</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41021)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1233:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ethice christiana, or, The school of wisdom wherein the grounds of moral philosophy are demonstrated to comply with the principles of Christian religion, by a mixt exercise of grace and vertu / written originally in French ... by M. De la Serre ; and done into English by J.A.</title>
+                  <author>La Serre, M. de (Jean-Puget), ca. 1600-1665.</author>
+                  <author>Alardis, James.</author>
+               </titleStmt>
+               <extent>[16], 106 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D.M. for Henry Marsh,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Epistle dedicatory" signed: James Alardis.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian ethics.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41021:1"/>
+            <pb facs="tcp:41021:1" rendition="simple:additions"/>
+            <p>
+               <hi>Ethice Chriſtiana,</hi> OR THE School of Wiſdom.</p>
+            <p>Wherein the GROUNDS of MORAL PHILOSOPHY Are Demonſtrated to comply with the Principles of <hi>Chriſtian Religion:</hi> By a mixt Exerciſe of GRACE and VERTUE.</p>
+            <p>
+               <hi>Written Originally in</hi> French, <hi>by the Exqu<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en</hi>
+            </p>
+            <p>M. DE LA SERRE, <hi>And done into English by</hi> J. A.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. M.</hi> for <hi>Henry Marſh,</hi> at the ſign of the Princes Armes, in <hi>Chancery Lane.</hi> 1664.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:41021:2"/>
+            <pb facs="tcp:41021:2"/>
+            <head>TO THE Right Noble and Excellent PRINCE JAMES Duke of <hi>MONMO<g ref="char:V">Ʋ</g>TH,</hi> &amp;c. AND His moſt Illuſtrious Conſort, ANNE, &amp;c.</head>
+            <opener>
+               <salute>May it pleaſe your Highneſs,</salute>
+            </opener>
+            <p>THE Deity which attended your Cradle, being moſt affectionately fond
+<pb facs="tcp:41021:3"/>of your Glory and Hap<g ref="char:EOLhyphen"/>pineſs; doth yet officiouſly purſue the care of your Illuſtrious Perſon, and the Conduct of your Af<g ref="char:EOLhyphen"/>fairs. Often hath ſhe ap<g ref="char:EOLhyphen"/>peared to your Highneſs in broken reflexes, and imperfect ſight, vayled and weakned by your Infant years, but now ſhe repreſents her ſelf to you in her moſt Au<g ref="char:EOLhyphen"/>guſt and Divine Form and Image, and gives
+<pb facs="tcp:41021:3"/>you her Hand, inviting your Adult Age, to the due exerciſe of your He<g ref="char:EOLhyphen"/>roical vertues;</p>
+            <p>And <hi>O Dea Certe!</hi>
+            </p>
+            <p>I cannot doubt there<g ref="char:EOLhyphen"/>fore, but your Highneſs will readily own theſe Features of ſuch an ex<g ref="char:EOLhyphen"/>cellent and indulgent Tutreſs, which ſhe hath commanded to be drawn to publick view; and in<g ref="char:EOLhyphen"/>ſcribed to your Name, as wherein ſhe hath placed
+<pb facs="tcp:41021:4"/>the reſembling venera<g ref="char:EOLhyphen"/>tion of her great ſelf.</p>
+            <p>Theſe ſentences, the firſt fruits of a foraign growth, I doe moſt hum<g ref="char:EOLhyphen"/>bly offer to your High<g ref="char:EOLhyphen"/>neſs, as an earneſt of the full Increaſe which the univerſal world ſhall certainly pay to your ar<g ref="char:EOLhyphen"/>rived and Compleated Felicity, the Progreſs and perfection whereof is and ſhall ever be my moſt aſsiduous and earneſt prayer.</p>
+            <pb facs="tcp:41021:4"/>
+            <p>And Madam, having had the good Fortune to be a Servant in that Ho<g ref="char:EOLhyphen"/>norable Family, where your Highneſs had your firſt Education, My In<g ref="char:EOLhyphen"/>clinations being more par<g ref="char:EOLhyphen"/>ticularly devoted to your Highneſs ſervice, I have preſumed alſo to dedi<g ref="char:EOLhyphen"/>cate this Tranſlation of Chriſtian Moralls, to your moſt Noble Duke and moſt Vertuous ſelf; before whoſe happy time,
+<pb facs="tcp:41021:5"/>the world is pregnant in their deſires and expecta<g ref="char:EOLhyphen"/>tions of ſome eminent effects, of whatſoever can be taught in the School of Honor and Wiſ<g ref="char:EOLhyphen"/>dom, I hope your High<g ref="char:EOLhyphen"/>neſs will be pleaſed to accept of this ſmall En<g ref="char:EOLhyphen"/>deavour of mine, as a Teſtimony of the Dutiful Reſpects that are born you.</p>
+            <closer>
+               <signed>
+                  <hi>By Your Graces moſt humbly Devoted Servant in all Obedience,</hi> James Alardis.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41021:5"/>
+            <head>TO The Noble READER.</head>
+            <p>FOr to ſuch only did the Author direct his Original, and ſuch cheifly will find themſelves concerned in it. There is nothing mean in the whole Diſcourſe, for it is above that Region, There are
+<pb facs="tcp:41021:6"/>ſome Exerciſes appropriate only to great ſpirits, and vindicated to be ſo by their ſole competence thereunto; (yet if any man dare try his ability, we are not ſo nice or curious of his adventure:) Only thus much the world may be now informed, that it hath paſſed Ten Impreſſi<g ref="char:EOLhyphen"/>ons in <hi>France,</hi> lodged alto<g ref="char:EOLhyphen"/>gether in Gentlemens hands; and might have ſooner ſpoke Engliſh, but that it ſcorned our late Democracy, as a moſt profane, brute, and indocible Herd.</p>
+            <p>There are many things which we have vainly and
+<pb facs="tcp:41021:6"/>ridiculouſly learned from the French Nations, but we juſtly own them nothing but this Treatiſe; for the faſhion of wiſdome is al<g ref="char:EOLhyphen"/>together immutable and in<g ref="char:EOLhyphen"/>variable; and upon that ſcore leaves us eternally ob<g ref="char:EOLhyphen"/>liged.</p>
+            <p>We promiſe much, but whether we now injure the Renowned Author, or the Equal Reader, let the per<g ref="char:EOLhyphen"/>uſal determine.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:41021:7"/>
+            <p>
+               <hi>IMPRIMATUR</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Ex Aed. Lamb.</hi> 
+                  <date>
+                     <hi>Dec.</hi> 14. 1663.</date>
+               </dateline>
+               <signed>Geo. Stradling <hi>S. T. P. Rev. in Chriſto Patr. D.</hi> Gilb. <hi>Archi.</hi> Cant. <hi>à Sac. Domeſt.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41021:7"/>
+            <head>TO THE READER.</head>
+            <lg>
+               <l>EXpect not in theſe leaves to finde,</l>
+               <l>The trifles of an airy minde;</l>
+               <l>No froliques of a jovial Pen,</l>
+               <l>No Words for children here, but men;</l>
+               <l>Not <hi>Wit,</hi> but <hi>Wiſdome,</hi> that beſt thing</l>
+               <l>Prefer'd by <hi>Iſrael's</hi> mighty King;</l>
+               <l>
+                  <hi>Wiſdome</hi> that double-guild's a Crowne</l>
+               <l>And make's a man's beſt part his owne.</l>
+               <l>He that obſerve's <hi>theſe</hi> rules ha's found</l>
+               <l>That ſolid Rule, that certain ground,</l>
+               <l>That conſtant and unerring Guide</l>
+               <l>Shall hold him up what 'ere betide:</l>
+               <l>For though the world's tempeſtuous ſea</l>
+               <l>Should roare, and very angry bee,</l>
+               <pb facs="tcp:41021:8"/>
+               <l>Mount up it's foaming waves on high,</l>
+               <l>And with it's waters dare the sky,</l>
+               <l>Though ev'ry guſt deſtruction breath,</l>
+               <l>And every billow threaten death;</l>
+            </lg>
+            <lg>
+               <l>Where Wiſdom ſhall the wary Pilot be,</l>
+               <l>Thou canſt not ſhipwrack in the deepeſt Sea.</l>
+            </lg>
+            <closer>
+               <signed>T. F.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:41021:8" rendition="simple:additions"/>
+            <head>THE TABLE.</head>
+            <list>
+               <label>CHAP. I.</label>
+               <item>THat we ought to have God for the Object of all our Actions, <hi>Page. 1.</hi>
+               </item>
+               <label>CHAP. II.</label>
+               <item>That in this Life we can find no true caſe, but in peace of Con<g ref="char:EOLhyphen"/>ſcience. <hi>Page. 9.</hi>
+               </item>
+               <pb facs="tcp:41021:9"/>
+               <label>CHAP. III.</label>
+               <item>That we ought to draw our conſolati<g ref="char:EOLhyphen"/>on againſt the miſcries which be fall us, from the conſideration of the Original whence they are derived. <hi>Page. 16.</hi>
+               </item>
+               <label>CHAP. IV.</label>
+               <item>That true glory doth only conſiſt in living vertnouſly. <hi>Page. 26.</hi>
+               </item>
+               <label>CHAP. V.</label>
+               <item>That Integrity and upright dealing only, maketh a vertuous man. <hi>Page. 33.</hi>
+               </item>
+               <label>CHAP. VI.</label>
+               <item>That in what condition ſoever we be, we ought therein to ſeek for our Repoſe and Salvation. <hi>Page. 49.</hi>
+               </item>
+               <label>CHAP. VII.</label>
+               <item>That he that knoweth how to live well, is the moſt learned man in the World. <hi>Page. 48.</hi>
+               </item>
+               <label>CHAP. VIII.</label>
+               <item>That Moderation in Riches, is more to be deſired then Exceſs, becauſe
+<pb facs="tcp:41021:9"/>it is more profitable. <hi>Page. 56.</hi>
+               </item>
+               <label>CHAP. IX.</label>
+               <item>That our Salvation and Repoſe de<g ref="char:EOLhyphen"/>pend of the knowledg of our ſelves. <hi>Page. 63.</hi>
+               </item>
+               <label>CHAP. X.</label>
+               <item>That we ought to derive our Nobi<g ref="char:EOLhyphen"/>lity from our ſelves, as well as from our Anceſtors. <hi>Page. 70.</hi>
+               </item>
+               <label>CHAP. XI.</label>
+               <item>That we ought to be diſ-engaged from all things; to the end, That we may live without diſquiet, and die without ſorrow. <hi>Page. 76.</hi>
+               </item>
+               <label>CHAP XII.</label>
+               <item>That the Good we do in this World, is of greater value than the Goods we poſſeſs in it. <hi>Page. 83.</hi>
+               </item>
+               <label>CHAP. XIII.</label>
+               <item>If we we would léave the World chearfully, we muſt diſ-engage our ſelves from it, ere we leave it, <hi>Page. 89.</hi>
+               </item>
+               <pb facs="tcp:41021:10"/>
+               <label>CHAP. XIV.</label>
+               <item>That the World is a Theatre, where every man acteth his Part in Time, for an Eternity. <hi>Page. 95.</hi>
+               </item>
+               <label>CHAP. XV.</label>
+               <item>That the Wiſe man waiteth for Death, without either wiſhing or fearing it. <hi>Page. 101.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:41021:10"/>
+            <head>
+               <hi>Books ſold by</hi> Henry Marſh <hi>at the</hi> Princes Arms <hi>in</hi> Chancery-Lane.</head>
+            <p n="1">1. A Compendious Chronicle of <hi>Por<g ref="char:EOLhyphen"/>tugal,</hi> from <hi>Alfonſo</hi> the firſt King, to <hi>Alfonſo</hi> the ſixth now Reign<g ref="char:EOLhyphen"/>ing; together with a Coſmographical Deſcription of the Dominions of <hi>Por<g ref="char:EOLhyphen"/>tugal,</hi> by <hi>J. D.</hi> Gent. 8.</p>
+            <p n="2">2. The uſeful Book for Gentlemen and Travellers, being an exact Deſcrip<g ref="char:EOLhyphen"/>tion of the ſeveral Countries and Shires of <hi>England:</hi> by <hi>Edw. Leigh</hi> 
+               <abbr>Eſq</abbr> 8.</p>
+            <p n="3">3. Blood for Blood, or Murther re<g ref="char:EOLhyphen"/>venged, in 35 Tragical Hiſtories; ſome whereof have been the ſad Product of our Times. 8.</p>
+            <p n="4">4. Royal Hiſtory compleated, in the Life of his Sacred Majeſty <hi>Charles</hi> II. <hi>James</hi> Duke of <hi>York,</hi> and <hi>Henry</hi> Duke of <hi>Glouceſter,</hi> with their Reſtauration, happily concluded by his Grace the Duke of <hi>Albemarle. Fol.</hi>
+            </p>
+            <p n="5">5. Rumps Looking-Glaſs, or a Col<g ref="char:EOLhyphen"/>lection of ſuch Pieces of Drollery as
+<pb facs="tcp:41021:11"/>were prepared by ſeveral Witts to purge the Rump. 4.</p>
+            <p n="6">6. The Faithful Lapidary, being a Hiſtory of all pretious Stones: very uſeful for Gentlemen, Merchants and others. 40.</p>
+            <p n="7">7. A ſhort view of the Life and Acti<g ref="char:EOLhyphen"/>ons of the Illuſtrious Prince <hi>James</hi> D. of <hi>York,</hi> with his Character. 4.</p>
+            <p n="8">8. The States man, or Modern Po<g ref="char:EOLhyphen"/>licie: the ſecond part. 8.</p>
+            <p n="9">9. The Devils Gabinet-Council diſ<g ref="char:EOLhyphen"/>covered, or the Plots and contrivances of <hi>O. Cromwel</hi> and the <hi>Long-Parliament</hi> in order to the taking away the Life of his Sacred Majeſty of bleſſed memory 8.</p>
+            <p n="11">11. The Soveraigns Prerogative, and the Subjects Priviledge: Compriſed in ſeveral Speeches, Caſes, and Argu<g ref="char:EOLhyphen"/>ments of Law, diſcuſſed between the Kings moſt Sacred Majeſty, and the moſt eminent Perſons of both Houſes of Parliament: Collected by Dr. <hi>Tho. Fuller. Folio.</hi>
+            </p>
+            <p n="11">11. Fathers Bleſſing, or a Legacie to his ſon, fitting him to carry himſelf through the various Encounters of this world. 12.</p>
+            <pb facs="tcp:41021:11"/>
+            <p n="12">12. The Hiſtory of the affairs of <hi>Scotland,</hi> under the conduct of the Il<g ref="char:EOLhyphen"/>luſtrious and truly valiant <hi>James</hi> Mar<g ref="char:EOLhyphen"/>queſs of <hi>Montroſs.</hi> 8.</p>
+            <p n="13">13. A ſhort view of the Lives of thoſe-excellent Princes <hi>Henry</hi> D. of <hi>Glou<g ref="char:EOLhyphen"/>ceſter,</hi> and <hi>Mary</hi> Princeſs of <hi>Orange,</hi> deceaſed. 8.</p>
+            <p n="14">14. <hi>Leſſius</hi> of health, with <hi>Cornaro's</hi> Treatiſe of Temperance. 24.</p>
+            <p n="15">15. A new Engliſh Grammar, pre<g ref="char:EOLhyphen"/>ſcribing certain Rules for Foreiners to learn Engliſh: with a Grammer of the <hi>Spaniſh</hi> or <hi>Caſtilian</hi> Tongue, with ſpe<g ref="char:EOLhyphen"/>cial Remarks upon the <hi>Portugees</hi> Dialect, &amp;c. to which is annexed, a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erambu<g ref="char:EOLhyphen"/>tion of <hi>Spain</hi> and <hi>Portugal,</hi> which may ſerve for direction to travel through both Countries, for the ſervice of Her Majeſty, whom God preſerve. 8.</p>
+            <p n="16">16. <hi>Overbury</hi> Revived, or a Satyrical Deſcription of the Vices of our late Times, in Eſſays and Characters, by <hi>L. G.</hi> 12.</p>
+            <p n="17">17. The true Portraiture of Her moſt excellent Majeſty <hi>Donna Catherino</hi> Queen of <hi>Great Britain, Fol.</hi>
+            </p>
+            <pb facs="tcp:41021:12"/>
+            <p n="17">17. <hi>Summum Bonum,</hi> or a Plain Path-way to Happineſs, conducting the Soul to its Haven of Reſt, through the ſtormy paſſage of Worldly troubles: to which is added a ſhort Dialogue of that excellent Vertue of the Submiſſion of Mans Will to the Will of God. 8.</p>
+            <p n="18">18. The Hiſtory of Independency compleat; being the firſt, ſecond, third, fourth and laſt Part, which may be had ſingle by ſuch as have bought the o<g ref="char:EOLhyphen"/>ther. 4.</p>
+            <p>
+               <hi>Choice Poems, by eminent Wits of this Age.</hi>
+            </p>
+            <p n="19">19. <hi>Regale Lectum Miſeriae,</hi> or a Kingly Bed of Miſerie: in which is contained a Dream, with other Poems: by <hi>J. Quarles,</hi> the laſt Impreſſion. 8.</p>
+            <p n="20">20. A New Survey of the Turkiſh Empire and Government, in a brief Hiſtory deduced to this preſent Time; and the reign of the now Grand Seignior <hi>Mahomet</hi> the fourth, the preſent and 14 Emperor, with their Lawes, Religi<g ref="char:EOLhyphen"/>ons, Cuſtoms, as alſo an account of the Seige of <hi>Newhauſal.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:41021:12"/>
+            <head>
+               <hi>Ethice Chriſtiana,</hi> OR The Precepts of Chriſtian Morals.</head>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> That we ought to have God for the Object of all our actions.</head>
+               <p n="1">1. ALL Worldly Actions do nothing but ſtrike the eare with their noiſe; and what Glory ſoever doth ac<g ref="char:EOLhyphen"/>company them, paſſeth away with us. This doth oblige us to have Eternity al<g ref="char:EOLhyphen"/>wayes
+<pb n="2" facs="tcp:41021:13"/>wayes before our eyes, becauſe Time deſtroyeth all that it bringeth forth, in making it ſelf the firſt object of its fury.</p>
+               <p n="2">2. Although God be the Judge, as well as the witneſs of our Actions, we ought to conſecrate them unto him rather out of love then duty, to the end that that voluntary ſubmiſſion preventing the conſtraint of neceſſity, may make us hope for a favourable ſucceſs thereof.</p>
+               <p n="3">3. All that we do out of the ſight of God, muſt needs redound to our confuſi<g ref="char:EOLhyphen"/>on and diſadvantage, for ſeeing we work in darkneſs, the pain of our un<g ref="char:EOLhyphen"/>profitable labour is the only reward thereof.</p>
+               <p n="4">4. Rejoyce not at the ſucceſs of your deſignes, unleſs God hath given you the firſt thoughts thereof; the joyes of Fortune are never of long continuance; and if they happen to laſt for a ſpace, you ought to fear that that long calme will at laſt bring forth a ſtorm, where you may find your ſhipwrack.</p>
+               <p n="5">5. If you conſult the Wiſdom of the World in your attempts, you ſhall ne<g ref="char:EOLhyphen"/>ver come to a happy concluſion; for the
+<pb n="3" facs="tcp:41021:13"/>light of humane Prudence not being able to penetrate into the obſcurity of that which is to come, doth often take the appearance of Truth, for the Truth it ſelf; ſo that of a bright day it maketh a dark ſhadow.</p>
+               <p n="6">6. The counſels of the men of this World ought alwayes to be ſuſpect unto us, not becauſe they are hurtfull, (for they may ſometimes happen to our ad<g ref="char:EOLhyphen"/>vantage;) but we muſt conſider, that as thoſe counſels which belong to our ſal<g ref="char:EOLhyphen"/>vation are of greateſt concernment, ſo all other cannot be but unprofitable.</p>
+               <p n="7">7. Do not expect the ſucceſs of your deſignes from your <hi>Induſtrie:</hi> For ſhe is a Work-woman that is ever learning, and continueth alwayes in her Apprenti<g ref="char:EOLhyphen"/>ſhip; and we know by experience, that when ſhe worketh alone, all her work is to no purpoſe.</p>
+               <p n="8">8. Whatſoever a man doth in Time, his Actions in the end, have neither Witneſs nor Judge, ſeeing he is the firſt that accuſeth himſelf. I would have all Actions performed as in the publick view of the whole World, for they muſt
+<pb n="4" facs="tcp:41021:14"/>needs periſh with it, ſeeing they are encloſed within its circumference.</p>
+               <p n="9">9. They that labour only for that which is to come, do enjoy a preſent ſatisfaction; for as much as when they waxe old in a ſenſible hope to be crowned with their labours, they come to taſte of that good which they formerly hoped for.</p>
+               <p n="10">10. Conſider with your ſelf, that all your actions have a certain relation to <hi>Eternity,</hi> if to Eternity you ought to be rewarded or puniſhed. Do all what you will, God reſerveth to himſelf the finall judgement of your works, leaving you free liberty to make choice either of Heaven or Hell.</p>
+               <p n="11">11. Again conſider, that all our actions have no other object but our ſal<g ref="char:EOLhyphen"/>vation or deſtruction, and that they are alwayes preſent in the ſight of God, either to reward or puniſh them.</p>
+               <p n="12">12. Render an account of all your Actions unto your ſelf, that you may ſhun the cenſure of others, and if you be afraid of Gods chaſtiſement, puniſh your ſelf firſt; voluntary peni<g ref="char:EOLhyphen"/>tence may appeaſe his wrath.</p>
+               <pb n="5" facs="tcp:41021:14"/>
+               <p n="13">13. Like as good actions crown them<g ref="char:EOLhyphen"/>ſelves, by reaſon of the glory that doth accompany them, ſo do the evill Actions carry their puniſhment along with them, through the ſhame which followeth them. This obligeth us to do the good, and ſhun the evill, even out of the con<g ref="char:EOLhyphen"/>ſideration of their own nature, although we ſhould have no other object.</p>
+               <p n="14">14. Behold alwayes the end of your actions, if you would prevent the re<g ref="char:EOLhyphen"/>penting of them; and be you the firſt Judge of them, to the end you may never have any other. We muſt not be indulgent to our ſelves when it concerneth our ſalvation, or Honour.</p>
+               <p n="15">15. Do no action that may be un<g ref="char:EOLhyphen"/>worthy of you, although you ſhould have no other witneſs but your ſelf, ſeeing your own memory doth ſuffici<g ref="char:EOLhyphen"/>ently know it; and as your memory would upbraid you with it every day, ſo you ſhould ſuffer the puniſhment there<g ref="char:EOLhyphen"/>of every hour.</p>
+               <p n="16">16. He that hath an eye towards God in all his Actions, healeth him<g ref="char:EOLhyphen"/>ſelf of the evill of Fear, and may chal<g ref="char:EOLhyphen"/>lenge a propriety in Hope; and as he
+<pb n="6" facs="tcp:41021:15"/>liveth without reproach, ſo he dyeth without ſorrow.</p>
+               <p n="17">17. What ſhould it availe us to re<g ref="char:EOLhyphen"/>move both Heaven and Earth in queſt of our repoſe, if both of them faile us in the end, ſo that we be not able to find it? and if the Earth remain to us, it ſerveth for a tomb to our hopes, aſwell as to our ſelves.</p>
+               <p n="18">18. We muſt of neceſſity work in the Lords Vineyard, if at the end of the day we would receive our wages; all other employments are unprofitable, as well as our ſorrow for the miſpending of time, ſeeing the want thereof renders us incapable to repaire our loſſes.</p>
+               <p n="19">19 Whatſoever Actions you do here below, all the recompenſe that the World can give you for them cannot enrich you; and if you do not take your aime beyond Time, all the houres thereof are fatall to you, ſeeing every moment may ſound your retreat, but ſuch a retreat as hath no returne.</p>
+               <p n="20">20. Undervalue all things here below, ſeeing all that you ſet your eye upon changeth countenance with you; and let your apprehenſion be continually
+<pb n="7" facs="tcp:41021:15"/>filled with this truth, that only the good which we do in this life, is the ſole con<g ref="char:EOLhyphen"/>ſolation which remains unto us at our death.</p>
+               <p n="21">21. Know then, that <hi>Good</hi> hath this property, it repleniſheth with joy the heart of him who exerciſeth himſelf in the practice thereof; and although a man ſhould never expect any other reward, yet the good it ſelf is alwaies our Glory, our Happineſs and our Prize.</p>
+               <p n="22">22. Our Actions are only rendered conſiderable by their Object and End; and although the event of them be happy, yet if their Object be not juſt and lawful, both ſhame and loſs are inſeparable companions to their ſuc<g ref="char:EOLhyphen"/>ceſs.</p>
+               <p n="23">23. It is not enough, not to do evill, we do it alwayes when we ceaſe from doing of good. We muſt dili<g ref="char:EOLhyphen"/>gently worke out our own ſalvation, without the intermiſſion of one mo<g ref="char:EOLhyphen"/>ment, for that one moment may prove moſt fatal to us.</p>
+               <p n="24">24. Conſider, that in this World every man liveth as he pleaſeth, and
+<pb n="8" facs="tcp:41021:16"/>although the manner of living and dying be quite different, all muſt undergo the ſame judgement for an Eternity.</p>
+               <p n="25">25. If you deſire to eſtabliſh your repoſe firmly, lay the foundation there<g ref="char:EOLhyphen"/>of upon your Salvation, which ought to be the only ſcope of all your actions, elſe they are to no purpoſe. Suppoſe you were eminent in Honour and Riches, this is as much as to enjoy a temperate Aire in the Country wherein you are; but ſeeing you are alwayes upon your journey, the change of the Climate will breed an alteration in the countenance of your Fortune, and in the end you ſhall be only happy in remembring that you have been ſo.</p>
+               <p n="26">26. Conſider, that the vertuous acti<g ref="char:EOLhyphen"/>ons of our life, are as ſo many pictures of our good fortunes, whereof the object being alwaies preſent, renders us ſtill happy: So that the honeſt and vertuous man hath this advantage, that he ſurvi<g ref="char:EOLhyphen"/>veth himſelf before his death, ſeeing he enjoyeth the felicity of his life paſt, by the pleaſant remembrance thereof which abideth with him.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="9" facs="tcp:41021:16"/>
+               <head>
+                  <hi>CHAP. II.</hi> That in this Life we can find no true eaſe, but in peace of Conſcience.</head>
+               <p n="1">1. YOu may well looke for Eaſe here below, but you muſt give it to your ſelf before you can find it; it muſt be a piece of work of your own making, ſeeing you cannot obtain it but only by the force of your own In<g ref="char:EOLhyphen"/>duſtry.</p>
+               <p n="2">2. Suppoſe that Meſſengers bring you glad news every day, and that your affairs are regulated by your wiſhes; yet you cannot deny, but that the re<g ref="char:EOLhyphen"/>morſe of Conſcience hindereth your mind from enjoying that reſt which it deſireth.</p>
+               <p n="3">3. Conſider that all ſins carry their torment along with them, and that God puniſheth them in the Thought aſwell as in the Will, and that with a continu<g ref="char:EOLhyphen"/>al
+<pb n="10" facs="tcp:41021:17"/>puniſhment, ſeeing the remembrance of them is both the Torment and Ex<g ref="char:EOLhyphen"/>ecutioner.</p>
+               <p n="4">4. The Sinner never taketh his Paſtime with delight, becauſe the juſtice of God purſueth him alwayes, to puniſh him without intermiſſion, and mingleth ſo many thorns among his Roſes, that the ſighs of his heart do often belie the cheerfulneſs of his countenance.</p>
+               <p n="5">5. Imagine the greatneſs of the di<g ref="char:EOLhyphen"/>ſturbance of a Malefactor, fain would he flee from his puniſhment, but the thoughts of his crimes do torment him inceſſantly; ſo it is with the Sinner: as God is every where, ſo the Sinner feeleth his juſtice in every place, which keepeth his ſoul upon the rack by the remembrance of his ſin.</p>
+               <p n="6">6. Think not to find any delight, yea in your very pleaſures, having your ſoul contaminated with the ſtaines of your crimes, God is pleaſed to change the nature of your contentments, and to turne the ſubject of your conſolation, into that of your torment.</p>
+               <p n="7">7. Let the wicked man withhold no delightful thing from his Senſes, and
+<pb n="11" facs="tcp:41021:17"/>let Voluptuouſneſs be their nurſing-mo<g ref="char:EOLhyphen"/>ther: her breaſts are alwayes filled with bitterneſs to ſeed them, ſeeing that by chaſtiſements from above, they find an unſavoury taſte in the moſt delicious diſhes.</p>
+               <p n="8">8. Truſt not to the teſtimony of wicked men, for God layeth his hand upon them to ſuch an extremity as to make them inſenſible of his correction: and as this ſtupidity is a marke of their reprobation, ſo it witneſſeth, before hand, the Eternity of the torments to which they are deſtined.</p>
+               <p n="9">9. Innocency carrieth alwayes Heaven with it, and it is never found in any ſoul, without communicating unto it the ſweetneſs of that Repoſe which doth <hi>properly</hi> belong unto it, it being the <hi>effect,</hi> and Innocency the <hi>cauſe.</hi>
+               </p>
+               <p n="10">10. Hell alſo followeth Sin unſepara<g ref="char:EOLhyphen"/>bly, ſo that Sin cauſeth its own torments in bringing them forth, by reaſon of the neceſſity of juſtice which doth al<g ref="char:EOLhyphen"/>wayes puniſh it.</p>
+               <p n="11">11. Know for a truth, that the re<g ref="char:EOLhyphen"/>poſe of the Conſcience bringeth forth peace to the Soul; and as both theſe,
+<pb n="12" facs="tcp:41021:18"/>together make up a Heaven upon Earth, ſo there is no other Hell but that which conſiſts in the privation of them.</p>
+               <p n="12">12. As often as you make a divorce from your Conſcience, you proclaime warr againſt your ſelf; and it is a warr wherein no Truce is to be looked for, ſeeing juſtice gives none.</p>
+               <p n="13">13. Study to employ well the pre<g ref="char:EOLhyphen"/>cious moments of your dayes, if you would not die a Death, which will ad<g ref="char:EOLhyphen"/>mit no return to life again, unleſs it be to make you the eternal object of the wrath of an angry God.</p>
+               <p n="14">14. O how unhappy is he, at the hour of Death, who hath miſpent the time of his Life! becauſe as his ſorrow for this fault is in vain, ſo he feeleth himſelf inſtantly ſtrucken with an evill, both ſudden and incurable.</p>
+               <p n="16">16. That God hath a love towards his creatures, doth manifeſtly appear, by the trouble they are in when he withdraweth his preſence from them, for they can find no reſt, but in him alone.</p>
+               <p n="17">17. There is no pleaſure that can ſatisfy our mind, or fill our heart; be<g ref="char:EOLhyphen"/>cauſe it is the property of our Envy
+<pb n="13" facs="tcp:41021:18"/>to be irregular, and from the ſatiety thereof, there ariſeth alwayes a new ap<g ref="char:EOLhyphen"/>petite.</p>
+               <p n="18">18. All that you do without conſult<g ref="char:EOLhyphen"/>ing the Oracle of Heaven, paſſeth for an improfitable labour, whereof the pain abideth, although the work be ended, ſeeing the grief thereof is continual, and the reward imaginary.</p>
+               <p n="19">19. Do not lull your ſelf aſleep in the ſucceſs of your wicked deſignes, the juſtice of God is ſo much the more ri<g ref="char:EOLhyphen"/>gorous, as it appeareth ſlow; and if you do not prevent it by correcting your ſelf firſt, you ſhall never be able to ſhun it.</p>
+               <p n="20">20. Learn to admire the mercy of God, that giveth your heart leave every moment, to juſtify it ſelf before him, ſeeing the leaſt of the ſighs there<g ref="char:EOLhyphen"/>of, can expiate the crimes of it.</p>
+               <p n="21">21. Eſtabliſh unto your ſelf a way of living, wherein Honour may be your object, and Reaſon your guide, and be not ſlack in your duty; this is the only means to find repoſe in the troubles of the World, and to enjoy a calme a<g ref="char:EOLhyphen"/>midſt the ſtorm whereby we are conti<g ref="char:EOLhyphen"/>nually agitated</p>
+               <pb n="14" facs="tcp:41021:19"/>
+               <p n="22">22. Every body loveth life, and yet no body learns to live: all the world dyeth, and yet there is none that know<g ref="char:EOLhyphen"/>eth rightly how to dy. This Science ought to be the only ſtudy of the Wiſe<g ref="char:EOLhyphen"/>man, ſeeing it alone can ſufficiently in<g ref="char:EOLhyphen"/>ſtruct us in the Art of working out our own Salvation.</p>
+               <p n="23">23. A Soul deprived of Grace is al<g ref="char:EOLhyphen"/>wayes in Alarum; being continually diſturbed with the horrour of the crimes it hath committed; and it may be ſaid truly of it, that it is a blind thing walk<g ref="char:EOLhyphen"/>ing along the brink of a precipice.</p>
+               <p n="24">24. Imagine the diſquiet of a ſick<g ref="char:EOLhyphen"/>man in the heat of a continual Feaver; He hath no reſt night nor day, feeling himſelf by little and little conſumed by a ſecret fire, which burneth him, with<g ref="char:EOLhyphen"/>out being perceived; devoureth him without being known, and at laſt redu<g ref="char:EOLhyphen"/>ceth him to aſhes, without giving the leaſt moment of intermiſſion to his painful burnings.</p>
+               <p n="25">25. This poor afflicted man is the true picture of a guilty Soul, which ſeeing it ſelf buried in a body tormented with a continual agony, feels it ſelf already
+<pb n="15" facs="tcp:41021:19"/>burning, in apprehenſion, in thoſe E<g ref="char:EOLhyphen"/>ternal Fires which are deſtined for the puniſhment thereof. No wonder if his diſquiet be great, ſeeing every moment may be the laſt of his life, and the firſt of the juſt vengeance of an angry God.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="16" facs="tcp:41021:20"/>
+               <head>
+                  <hi>CHAP. III.</hi> That we ought to draw our con<g ref="char:EOLhyphen"/>ſolation againſt the miſeries which befall us, from the conſideration of the Original whence they are derived.</head>
+               <p n="1">1. COmplain not of the Croſſes which are inflicted by the Di<g ref="char:EOLhyphen"/>vine Majeſty, they are preſents ſent from Heaven, your patience will ſhortly make you know the value of them.</p>
+               <p n="2">2. Complaints are unſeemly in the mouth of a Malefactor; if you can do no other thing but provoke God; do not augment the number of your offences, in murmuring againſt his juſtice.</p>
+               <p n="3">3. You muſt know, that God doth commonly afflict his Elect, in ſtrowing under their feet, thoſe Roſes wherewith his head was crowned; therefore ſeeing he hath been a ſharer in them, his
+<pb n="17" facs="tcp:41021:20"/>Elect can have no part in his glory, but by right of that ſucceſſion.</p>
+               <p n="4">4. What cauſe have you to complain of the juſtice of God, ſeeing his very rigours are the effects of his compaſſion: he puniſheth you in <hi>this</hi> World, to the end that he may ſhew mercy to you in the <hi>next;</hi> in his vengeance he conſtrain<g ref="char:EOLhyphen"/>eth you to admire his Bounty.</p>
+               <p n="5">5. In all your afflictions, let Reaſon prevent Time in comforting you, and be indebted to none but your ſelf, for the healing of your pain, ſeeing you may find the remedy in your ſubmiſſive Spirit.</p>
+               <p n="6">6. He that complains of the evill that he ſuffers, muſt needs have forgotten the evil he hath done; if he doth remem<g ref="char:EOLhyphen"/>ber it, his complaint paſſeth for a new crime, greater then any that went be<g ref="char:EOLhyphen"/>fore.</p>
+               <p n="7">7. As often as Heaven puniſheth you, do reaſon to juſtice, in ſuffering, without murmuring, the chaſt ſement which it inflicteth upon you; ſilence and Submiſſion do alwayes appeaſe the wrath of God.</p>
+               <p n="8">8. There is no greater miſery then to complain of thoſe miſeries that happen
+<pb n="18" facs="tcp:41021:21"/>unto you; becauſe in murmuring againſt Juſtice which puniſheth you, you con<g ref="char:EOLhyphen"/>ſtrain it to augment the force thereof, and to fall more heavily upon you, by reaſon of this laſt crime which you com<g ref="char:EOLhyphen"/>mit.</p>
+               <p n="9">9. A heart filled with God doth never ſigh but for joy, amidſt the greateſt afflictions: ſo that ſeeing he loveth much more then he ſuffereth, the exceſs of his love doth ſo vehemently moderate that of his pain, that by little and little he loſeth the feeling thereof.</p>
+               <p n="10">10 Conſider that you are the cauſe of your own afflictions; to the end that, puniſhing your ſelf by the ſorrow which you ought to have for them, this ſorrow may be your firſt comfort.</p>
+               <p n="11">11. How unhappy are the favorites of <hi>Fortune</hi> to follow the blind in their blindneſs! ſuppoſe ſhe ſhould lead them a pleaſant way, yet that is no other then the way to their grave, where they ſhall find the thorns of all thoſe Roſes which they have trampled upon.</p>
+               <p n="12">12. In all your calamities, look up to the hand that ſmites you, before you complain of the ſtroke it hath given you:
+<pb n="19" facs="tcp:41021:21"/>God doth never puniſh us in Time, but to make us afraid of his vengeance in Eternity.</p>
+               <p n="13">13. The Time of afflictions is of ſhort continuance in reſpect of that Eternity of glory which is to ſucceed it; the evill of our ſufferings ſoon paſſeth away, but the good of our conſtancy ought never to have an end.</p>
+               <p n="14">14. Generous ſpirits have alwayes carried a reſpect and reverence toward the unfortunate, knowing that they are ſick perſons, who ſhould at leaſt be comforted, if they cannot be cured.</p>
+               <p n="15">15. Never refuſe comfort to an af<g ref="char:EOLhyphen"/>flicted perſon, to the end that God may repay it you, when you ſtand in need of it; As all the evils are puniſhed in this world, ſo is all the good recompenſed.</p>
+               <p n="16">16. Flee not from the unfortunate, ſeeing that to morrow, you may be of their number; but render to them what you would expect from others, if you were in their condition. The afflicted have no enemies, ſeeing their miſery maketh truce with all thoſe who have proclaimed war againſt them.</p>
+               <pb n="20" facs="tcp:41021:22"/>
+               <p n="17">17. If it be true that the Object hath influence upon the Power, or Faculty, there is no afflicted perſon which may not receive abundance of conſolation in the apprehenſion of a crucified Savi<g ref="char:EOLhyphen"/>our; never was any fruſtrated that came to him in ſincerity.</p>
+               <p n="18">18. Be not weary in ſuffering; as the Roſe fadeth, the prickles thereof be<g ref="char:EOLhyphen"/>come blunt; it is not a ſmall comfort to you in your croſſes, that you can reckon the houres thereof. Thoſe evils that muſt needs take an end, are never of long continuance.</p>
+               <p n="19">19. O how happy a thing it is to grow old in affliction! He that dyeth upon the Croſs, carrieth his death ſo far into the ſecond Life which he hopeth for, that he feeleth himſelf reviving, accord<g ref="char:EOLhyphen"/>ing to the meaſure that he feeleth him<g ref="char:EOLhyphen"/>ſelf dying.</p>
+               <p n="20">20. The livery of the unfortunate, is the livery of the Predeſtinate; and it may be truly ſaid, that their ſilent conſtancy is continually working at thoſe Crowns which are appointed to be the reward of their labours.</p>
+               <p n="21">21. They that rejoyce at the miſeries
+<pb n="21" facs="tcp:41021:22"/>of others, prepare their own puniſh<g ref="char:EOLhyphen"/>ment, after they have condemned them<g ref="char:EOLhyphen"/>ſelves, ſeeing they render themſelves guilty a-new, by believing that they are not guilty, yea they are far more guilty then thoſe that are puniſhed.</p>
+               <p n="22">22. The juſt man is commonly af<g ref="char:EOLhyphen"/>flicted; and he is very happy, in this World that knoweth how to improve his ſufferings: a life crowned with Roſes produceth alwayes a Death filled with Thorns.</p>
+               <p n="23">23. It is a great Comfort to look for none here below in all the croſſes that happen unto us; becauſe, if Pati<g ref="char:EOLhyphen"/>ence cannot receive the final recom<g ref="char:EOLhyphen"/>pence from any other then Heaven, it is to be beleeved, that this recompence is beſtowed upon us for no other end, but to crown our Patience.</p>
+               <p n="24">24. Do not ſhun the approaches of afflicted perſons, God looks upon them continually as the objects of his com<g ref="char:EOLhyphen"/>paſſion, rather than of his Juſtice; and beleeve it, it is very lamentable not to improve aright the frowns and ſeverities of Fortune, ſeeing the laſt day of a vo<g ref="char:EOLhyphen"/>luptuous life, is far more terrible than
+<pb n="22" facs="tcp:41021:23"/>all the dayes that went before it, have been pleaſant and delightſome.</p>
+               <p n="25">25. I do not much wonder that ſome holy perſons would chooſe either to ſuffer or die. It is impoſſible to love a crucified God, without partaking of his ſufferings: and as ſorrow is the object of this love; ſo the heart, which is filled therewith, doth ſigh for joy amidſt the greateſt croſſes.</p>
+               <p n="26">26. There is no man more miſerable then he that is born and dyeth Fortunes darling, becauſe when death ſeizeth him unawares, he knoweth at the end of the day, that his light hath ſerved him for no other uſe but to find the way to Hell.</p>
+               <p n="27">27. A great Calm is alwayes held ſuſpect by the wiſe Pilot; he complains of that good-lucke, becauſe the exceſs of a Calm is an infallible preſage of the ſhort continuance thereof.</p>
+               <p n="28">28. Light diſgraces fortify the mind: and as they keep it in a continu<g ref="char:EOLhyphen"/>all Alarum, by the feare of a greater miſhap, ſo the mind by a prudent foreſight puts it ſelf in a condition to ſhun it; thus our firſt wound ſhelters us from many others, which might tend to our hurt.</p>
+               <pb n="23" facs="tcp:41021:23"/>
+               <p n="29">29. How pleaſant is it, to do that promptly and handſomely, which we muſt do of neceſſity! The Croſs is our portion; he that will not beare the burthen thereof in Time, prepareth his own puniſhment to Eternity.</p>
+               <p n="30">30. Do not refuſe the Cup that God preſenteth to you, ſeeing he hath quench<g ref="char:EOLhyphen"/>ed his thirſt, with the bitterneſs of that, whereof he makes you taſte but a little; is it not an exceſs of bounty to make a tryall firſt, of all the ſorrows that you can be able to ſuffer, to mitigate the vio<g ref="char:EOLhyphen"/>lence of them.</p>
+               <p n="31">31. When God afflicteth you by the death of any of your neareſt Relati<g ref="char:EOLhyphen"/>ons, he comforts you at the ſame inſtant by a new adver tiſment of the neceſſity of your departure, ſeeing they are gone to their manſion place, but one dayes journey before you.</p>
+               <p n="32">32. If you have loſt your Wife, that buried half waits for the other to be joyn'd with it; and ſeeing that union is certain and infallible, the moment which perfects it ought to be continually preſent with you, although it be to come.</p>
+               <p n="33">33. The loſs of any temporal Good
+<pb n="24" facs="tcp:41021:24"/>ought not to afflict you; if ſo be that of Grace abide with you. An innocent per<g ref="char:EOLhyphen"/>ſon afflicted is never miſerable, becauſe he ever findeth his conſolation in Gods Will, who hath ſo decreed it.</p>
+               <p n="34">34. All the miſeries, and all the happineſs that can befall us, are in Gods hands; the firſt is the correction of his Juſtice, the ſecond the favour of his Goodneſs; but ſeeing both theſe pro<g ref="char:EOLhyphen"/>ceed from him alone, the one obligeth us to ſilence out of reſpect, the other to thankfulneſs through acknowledge<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="35">35. Chriſtian Wiſdom conſiſteth in this, to will that which God willeth; not out of neceſſity, but rather out of a ſubmiſſion that prevents it, to the end that this neceſſity may find us alwayes diſpoſed to undergo the laws thereof, how hard ſoever they be.</p>
+               <p n="36">36. He that is jealous of the happi<g ref="char:EOLhyphen"/>neſs of others, increaſeth his own mi<g ref="char:EOLhyphen"/>ſeries by his envy, which is both crimi<g ref="char:EOLhyphen"/>nal and unprofitable; and in wiſhing an imaginary good, he feeleth a reall evill.</p>
+               <p n="37">37. I do not much wonder if a Soul
+<pb n="25" facs="tcp:41021:24"/>totally reſigned to the will of God, be under covert from the ſtormes of For<g ref="char:EOLhyphen"/>tune, ſeeing the calme, which it en<g ref="char:EOLhyphen"/>joyeth, draweth the continuance there<g ref="char:EOLhyphen"/>of from him who hath deminion over Time.</p>
+               <p n="38">38. All our diſquiet proceedeth only from our contempt of Providences, Or<g ref="char:EOLhyphen"/>ders: for if we did really beleeve this truth, that all that happeneth unto us cometh from Providence, our very afflictions would yeeld us comfort, ſeeing their bitterneſs would be changed into ſweetneſs.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="26" facs="tcp:41021:25"/>
+               <head>
+                  <hi>CHAP. IV.</hi> That true glory doth only con<g ref="char:EOLhyphen"/>ſiſt in living vertuouſly.</head>
+               <p n="1">1. ALthough you ſhould ranſack the whole Earth for Laurels, there would nothing remain to you, in the end, but the aſhes; and although all the people thereof were your Sub<g ref="char:EOLhyphen"/>jects, yet the ſmall compaſs of your Tombe would limit the greatneſs of this Empire.</p>
+               <p n="2">2. The ſame ſtairs which ſerve for aſcending, ſerve alſo for deſcending. All Thrones have their ſteps: The laſt ſtep of our elevation, marketh alwayes the firſt ſtep of our fall.</p>
+               <p n="3">3. Be not dazled at the ſplendor of <hi>Fortune's</hi> honours; her inconſtancy doth infallibly preſage that the day of your proſperity ſhall not paſſe without a ſtorm; and althoug it be at the de<g ref="char:EOLhyphen"/>clining,
+<pb n="27" facs="tcp:41021:25"/>the laſt moment thereof may be fatall to you.</p>
+               <p n="4">4. All the honours which we receive here on Earth, are of the ſame nature with the praiſes beſtowed on them: the latter are made of wind, and the former are nothing but ſmoak, the one paſſeth over our head, the other ſtriketh the eare in paſſing by.</p>
+               <p n="5">5. I do not much wonder that Glory hath nothing elſe to give but Laurels and Palmes, the Crowns made of theſe, laſt as long as the head that weareth them; the one is withered in the Sun, the other groweth white by the ſcorch<g ref="char:EOLhyphen"/>ing of Time, and both, at laſt, are re<g ref="char:EOLhyphen"/>duced to powder.</p>
+               <p n="6">6. How many triumphs have you ſeen? and how many crowned victori<g ref="char:EOLhyphen"/>ous? but thoſe faire days are paſt, and the memory of thoſe famous Con<g ref="char:EOLhyphen"/>querours paſſeth alſo, untill at laſt the Hiſtory of them, by the length of Time, becomes a fable.</p>
+               <p n="7">7. Suppoſe that Poſterity ſhould preſerve the remembrance, both of your name, and exploits; yet the Time ought to be limited, and of
+<pb n="28" facs="tcp:41021:26"/>what extent ſoever the limits thereof be, they are alwayes very ſhort, ſeeing they can be meaſured.</p>
+               <p n="8">8. Wonder not that the <hi>Romans</hi> have acquired a falſe Glory, they never had a love for the true Glory; they followed Vertue, without being willing to know it; and as they were contented to do noble actions out of vanity, ſo the vanity abideth with them, their reputa<g ref="char:EOLhyphen"/>tion being nothing but wind.</p>
+               <p n="9">9. He is baſe and low-minded who encloſeth his ambition, and hopes within the Circle of his life, ſeeing the Tombe is the Centre thereof: We muſt ſeek for a Glory that is far beyond Time, and that hath no dependance from it, which may fill the emptineſs of our hearts, that are alwayes diſquieted in their expectation.</p>
+               <p n="10">10. All the World doth breath after nothing ſo much as Glory, and no body taketh pains to acquire the true Glory; the contempt of worldly honours is moſt ſafe, a man cannot deſerve them, but in ſhunning them.</p>
+               <p n="11">11. Purity of Conſcience is the foun<g ref="char:EOLhyphen"/>tain of true Glory, and it is in vain for
+<pb n="29" facs="tcp:41021:26"/>wicked men to run after the Crowns thereof, God, for their ſakes, changeth the nature of theſe Crowns, ſeeing they cover them with infamy, in<g ref="char:EOLhyphen"/>ſtead of adorning them with honour.</p>
+               <p n="12">12. In this World, every man is the Artiſt of his own Glory; but to the end, that this work may be the better effected he muſt be for a long time <hi>Vertues</hi> Ap<g ref="char:EOLhyphen"/>prentice, ſeeing ſhe alone is able to make him Maſter.</p>
+               <p n="13">13. True Glory is the effect of a vertuous life, and good works are ſo many glorious actions. Care not for the verdict which the World may paſs on them, your own judgement ought to give you the firſt approbation of them, and your conſcience the laſt crown.</p>
+               <p n="14">14. It is not enough to live honora<g ref="char:EOLhyphen"/>bly; the Morals of Jeſus Chriſt are far different from thoſe of the World; for theſe teach us the <hi>love</hi> of our ſelves, but our Saviour the <hi>contempt;</hi> and becauſe Example is more powerful then Precept, he doth perſwade us to it by his own Practice.</p>
+               <p n="15">15. We may well ſeek for Glory in Combats, but we can only find
+<pb n="30" facs="tcp:41021:27"/>it in the victory we obtain over our Paſſions: Suppoſe you could gain Battels, take Cities, and conquer Kingdoms and Provinces, yet you muſt triumph over your ſelf, if you would beare the title of a true Worthie.</p>
+               <p n="16">16. The World hath her <hi>Perſons of honour,</hi> but I doe pitie them with all their Glory; they adorn themſelves with many ſpecious Titles, and they forget that of <hi>Miſerable,</hi> which doth properly belong unto them; they muſter up all their qualities, and remember not that of their periſhing nature, which blemiſheth all the reſt.</p>
+               <p n="17">17. If you deſire to acquire true Glory, let the Glory of God be your object. The World hath nothing to give but falſe honours; and if you would be of the number of true Heroes, let your ambition extend only to the conqueſt of Heaven; all thoſe that have bu<g ref="char:EOLhyphen"/>ſied themſelves in conquering the Earth, have been conſtrain'd at their death, to content themſelves with ſeven foot.</p>
+               <p n="18">18. After that the Rival of <hi>Ceſar</hi> had made his conqueſt, there could
+<pb n="31" facs="tcp:41021:27"/>hardly be found ſo much room as to write upon his grave, <hi>Here lies Pompey.</hi> This ſheweth, that the vanity of the Glory of the greateſt men is altogether nothing.</p>
+               <p n="19">19. True Glory hath no original in nature, the fountain thereof cometh from above; and as Eternity is the ob<g ref="char:EOLhyphen"/>ject of it, Eternity ought to ſerve alſo for the reward thereof.</p>
+               <p n="20">20. Covet no other quality but that of an Honeſt man, ſeeing that alone is able to accompliſh your Glory; he that liveth well, liveth gloriouſly; the quiet of his Conſcience is the honour of his life, as well as the happineſs thereof.</p>
+               <p n="21">21. It will not be asked, at the houre of death, if the honors you have received, have been great; but rather, if the works you have done, have been good. True Glory lyes in the con<g ref="char:EOLhyphen"/>tempt of the Glory of the World.</p>
+               <p n="22">22. As all things created returne to their Original, the World ſeeth all that Glory die which it bred; and if you draw not from Heaven thoſe thoughts of that Honour which you profeſs, you
+<pb n="32" facs="tcp:41021:28"/>ſhall ere long be aſhamed to ſurvive it, ſeeing you ſhall be a witneſs of the ruine thereof.</p>
+               <p n="23">23. The contempt we ought to have of the honors of this life, is never known but at the houre of death; but ſeeing that knowledg is unprofitable, we muſt then prevent it, by doing that to day, which we would have done to mor<g ref="char:EOLhyphen"/>row.</p>
+               <p n="24">24. Time ſurpriſeth the wiſeſt men, although it be alwayes preſent, you may well heare a Clock, or carry a Watch in your pocket, but it is to no purpoſe, ſeeing you do not profit by he counſell they give you; which is, that Time paſſeth away, as well as the Glory we have acquired in it.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="33" facs="tcp:41021:28"/>
+               <head>
+                  <hi>CHAP. V.</hi> That Integrity and upright deal<g ref="char:EOLhyphen"/>ing only, maketh a vertuous man.</head>
+               <p n="1">1. WHether you be rich, or great, or happy, all theſe quali<g ref="char:EOLhyphen"/>ties can make no impreſſion capable to gain Reputation, Integrity only can give that; and without this title of ho<g ref="char:EOLhyphen"/>nour, a man is nothing but a meer ſhadow.</p>
+               <p n="2">2. You are very glad to purchaſe, with money, the moſt eminent dignities and Offices. But after examination of your Conſcience, if you find your ſelf incapable to diſcharge them, you do but expoſe your ſelf in publick view upon an Altar, there to ſerve for the ſacrifice.</p>
+               <p n="3">3. Men of Integrity are the true Heroes of their Age, becauſe they have their ſouls filled with true Glory: and ſeeing it is impoſſible for a man to
+<pb n="34" facs="tcp:41021:29"/>live with honour, unleſs he live with<g ref="char:EOLhyphen"/>out reproach; labour therefore, in all your actions, to make your duty here below your firſt object, and laſt reward.</p>
+               <p n="4">4. What doth it availe you, to poſſeſs large Offices, and to receive great Honours, if being incapable of the one, you render your ſelf unworthy of the other: your Office gains reſpect, whereas your perſon deſerves contempt, as if your Livery were more to be eſteemed than your ſelf.</p>
+               <p n="5">5. Suppoſe your were ſerved in State, and had your Uſhers marching before you, <hi>&amp;c.</hi> Yet all the honor or diſgrace that encompaſſeth you, do proceed from your good or bad reputation: and whatſoever pompe doth accompany you, your way of living produceth either your eſteem or contempt.</p>
+               <p n="6">6. A Righteous man carrieth his ranke about with him, all his words and actions are ſtirred up by an honeſt boldneſs, and that is it that draweth reſpect and eſteem by a ſecret vertue; whereof the firſt cauſe is never known, ſeeing it is above nature.</p>
+               <pb n="35" facs="tcp:41021:29"/>
+               <p n="7">7. The firſt enquiry that is made after your manners, ſerves inſtead of a Judge of your life. This doth ob<g ref="char:EOLhyphen"/>lige you to give proof of your vertues, betimes; that the eſteem of your per<g ref="char:EOLhyphen"/>ſon may take the deeper impreſſion, becauſe publick Fame renders it ſelf the ſoveraign Umpire of your reputa<g ref="char:EOLhyphen"/>tion.</p>
+               <p n="8">8. The reſpects that are rendered to a man of a corrupt life, do cover him rather with infamy then glory; ſo that when he challengeth reſpect in regard of his Authority, he receiveth nothing but forced acknowledgements, which do ſhamefully reproach his ſoveraign<g ref="char:EOLhyphen"/>ty, yea upon the very Throne of his Empire.</p>
+               <p n="9">9. Seeing vertuous actions are valued according to the reputation of him who performs them, they muſt needs be built on a ſolid foundation, leſt they be attributed to chance, and Fortune have all the glory: Every one, in this world, is worth ſo much as he maketh himſelf to be worth.</p>
+               <p n="10">10. It is Uprightneſs and Integrity alone that doth diſtinguiſh us from one
+<pb n="36" facs="tcp:41021:30"/>another, all other qualities are ſtrangers to us; ſeeing they follow us but to the grave, but this alone can exempt us from it.</p>
+               <p n="11">11. Frame unto your ſelf certain wages of Honour, which can be filled by no other but your ſelf, and walking openly in the ſight of the whole World, make it the witneſs of your life, although it be the judge thereof: the approba<g ref="char:EOLhyphen"/>tion of the World is neceſſary here be<g ref="char:EOLhyphen"/>low, for the eſtabliſhment of your repoſe.</p>
+               <p n="12">12. Do not deſire to appear an Ho<g ref="char:EOLhyphen"/>neſt man, unleſs you be truly ſuch; your hypocriſy will ſtain your reputation with a new blemiſh which can never be blotted out, you may endeavour to hide it, but in vaine; for He who inlighters the darkeſt corners of your heart, will manifeſt the wickedneſs thereof by a publick vengeance.</p>
+               <p n="13">13. The wiſe Chriſtian hath no other Looking glaſs then that of his Conſcience; ſeeing it is ſuch a one as cannot flatter, it repreſents him ſuch as he ought to be, who ſhould, next to his own ſatisfaction, labour to pleaſe all men.</p>
+               <p n="14">14. Let your behaviour be adorned with ſuch Integrity, as may purchaſe cre<g ref="char:EOLhyphen"/>dit
+<pb n="37" facs="tcp:41021:30"/>to your words, and eſteem to your actions; to the end, that prepoſſeſſing the minds of men, to your own advan<g ref="char:EOLhyphen"/>tage, you may find friends in all places, and admirers at all times.</p>
+               <p n="15">15. Conſider that every one is Maſter of his own Honour and Salvation, ſeeing the one and the other do depend of us; and becauſe uprightneſs is the foundation of both, we may enjoy with it the repoſe which it gives us, in expectation of that which it maketh us hope for.</p>
+               <p n="16">16. You may well project a thouſand deſignes, and execute them too, and that happily by your ordinary tricks and ſubtilties; but I declare unto you in Gods name, that his juſt Providence ſhall cauſe your miſery to riſe out of their ſucceſs, and ſhall draw your diſquiet from that very repoſe, whereof (as you believed) you had laid the ſolid grounds.</p>
+               <p n="17">17. He that deceiveth others, firſt de<g ref="char:EOLhyphen"/>ceiveth himſelf; and it is bad policy to eſtabliſh a commerce, whereof our ruin is the object, and our damnation the end.</p>
+               <p n="18">18. The deceitful man is quickly known, and immediately cryed down; and this diſcredit breeding contempt,
+<pb n="38" facs="tcp:41021:31"/>and contempt hatred, he doth but breath in an Aire infected with re<g ref="char:EOLhyphen"/>proaches caſt (juſtly) upon him.</p>
+               <p n="19">19. The Vertuous man makes him<g ref="char:EOLhyphen"/>ſelf known and beloved both at once, and without any other charm then that of Vertue, he ſubdueth to himſelf all hearts that are worthy of his Con<g ref="char:EOLhyphen"/>queſt.</p>
+               <p n="20">20. Let Honour regulate your in<g ref="char:EOLhyphen"/>tereſt, to the end that your only intereſt may be to preſerve your Honour; and believe it, to live without reproach, is the only paradiſe here below.</p>
+               <p n="21">21. Be not proud of thoſe advan<g ref="char:EOLhyphen"/>tages Nature hath beſtowed on you; they are goods, whereof in paſſing by you have but the uſe: Vertue alone is a glorious ſucceſſion, which taketh its aime beyond Time.</p>
+               <p n="22">22. Carry your heart upon your lips, that from the Concord of your words and actions, you may draw a Harmony, which may charme all the World. There is nothing ſweeter to a man, than to ſurvive himſelf, in making the memo<g ref="char:EOLhyphen"/>ry of his life paſt, to be honorable be<g ref="char:EOLhyphen"/>fore his death.</p>
+               <pb n="39" facs="tcp:41021:31"/>
+               <p n="23">23. Be alwayes jealous of your Ho<g ref="char:EOLhyphen"/>nour, and carefull of your Salvation; and ſeeing the Honour of the World is nothing but a <hi>Chimaera,</hi> ſeek for your Reputation in Vertue, becauſe Vertue alone can make your Reputation Eter<g ref="char:EOLhyphen"/>nal.</p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="40" facs="tcp:41021:32"/>
+               <head>
+                  <hi>CHAP. VI.</hi> That in what condition ſoever we be, we ought therein to ſeek for our Repoſe and Sal<g ref="char:EOLhyphen"/>vation.</head>
+               <p n="1">1. EVery man is the Work-man of of his own Repoſe in this World; and <hi>Chriſtian Morals</hi> being the ſtudy of all Wiſemen, make them, at laſt, ſo expert in learning to obey the laws, that Providence impoſeth upon them, that they paſs their life without diſquiet, and wait for death without fear.</p>
+               <p n="2">2. When you are tyed in that con<g ref="char:EOLhyphen"/>dition which hath been the object of your choice, let your dutie be the only Compaſs that regulates your actions, to the end, that you may live without re<g ref="char:EOLhyphen"/>proach, and die without ſorrow.</p>
+               <pb n="41" facs="tcp:41021:32"/>
+               <p n="3">3. Conſider not the morall vertues which you practice, upon the account of acquiring the eſteem of the World; it is a deceitful Fame which will periſh with you, you muſt live like a Chriſtian, if you deſire to die like a Chriſtian.</p>
+               <p n="4">4. Labour to ſettle your ſelf in that Condition whereunto you are called, according to the rules of Conſcience, as well as thoſe of Honour, and do not confound the one with the other; the Glory of God, and the Honour of the World, have their Objects quite diffe<g ref="char:EOLhyphen"/>rent.</p>
+               <p n="5">5. Conſider that every man carrieth his Heaven or his Hell about with him, according to the good or bad imploying of his life; and ſeeing Life hath no returning, you do continually work, either your own Salvation or Deſtructi<g ref="char:EOLhyphen"/>on.</p>
+               <p n="6">6. Why do you diſquiet your ſelf in that bondage to which you are reduced, ſeeing the chains thereof cannot be broken? your diſquiet makes new bonds to enthral you the more, becauſe it aug<g ref="char:EOLhyphen"/>ments the grief, without ſhortning the terme thereof.</p>
+               <pb n="42" facs="tcp:41021:33"/>
+               <p n="7">7. If God hath called you to a ſolitary life, make it your Heaven, leſt it be your firſt Hell; there is no chain ſo harſh which Time and Neceſſi<g ref="char:EOLhyphen"/>ty will not ſweeten, as well as Reaſon or Death.</p>
+               <p n="8">8. He is very happy in his misfor<g ref="char:EOLhyphen"/>tune that doth ſupport it patiently; Conſtancy is continually at work in making the Crown of our ſufferings, and the Science of ſuffering without repining, is one of the greateſt per<g ref="char:EOLhyphen"/>fections of a Chriſtian life.</p>
+               <p n="9">9. He that conſults, with ſubmiſſion, the Oracle of Heaven, before he make choice of his condition on earth, a never in diſquiet, although he find himſelf engaged; becauſe ſince that Providence hath made the bonds of it, it makes the bondage thereof ſo pleaſant, that he hath greater occaſion of thank<g ref="char:EOLhyphen"/>fulneſs, then of complaint.</p>
+               <p n="10">10. When a man is inlightned on<g ref="char:EOLhyphen"/>ly with the light of humane Prudence, he cannot go far, without ſtumbling; he muſt make uſe of another Lantern, the light whereof is never extinguiſhed; and he muſt alwayes look up to Heaven,
+<pb n="43" facs="tcp:41021:33"/>to the end that he may not go aſtray here on Earth.</p>
+               <p n="11">11. Think not to find the Repoſe of your condition, in the ſucceſs of your affairs; that is too weak a foun<g ref="char:EOLhyphen"/>dation to build upon; for ſeeing that they change countenance every houre, they can make you unhappy every mo<g ref="char:EOLhyphen"/>ment.</p>
+               <p n="12">12. It is not enough to be at eaſe in your condition, this Eaſe is ill groun<g ref="char:EOLhyphen"/>ded, unleſs your Conſcience give it you; and he that is acquainted with the im<g ref="char:EOLhyphen"/>ploying of your time, is as skilfull as your ſelf, in knowing the happineſs and miſeries of your life.</p>
+               <p n="13">13. There are few that will ſay they are happy, although they have cauſe to be ſo; becauſe being over-ſwayed by their ambition, which is alwayes un<g ref="char:EOLhyphen"/>ſatiable, they muſt needs be always diſquieted.</p>
+               <p n="14">14. They may call themſelves tru<g ref="char:EOLhyphen"/>ly happy, who deſires no other for<g ref="char:EOLhyphen"/>tune, but what God is pleaſed to ſend them. And being diſpoſed to receive Good and Evill with an equal cheer<g ref="char:EOLhyphen"/>fulneſs, (conſidering the hand whence
+<pb n="44" facs="tcp:41021:34"/>they are ſent.) Time, that changeth always, never changeth to them.</p>
+               <p n="15">15. In what condition ſoever you be, conſider that from all Eternity, God hath deſigned out that place for you; and if you doe not diſcharge it inſtead of poſ<g ref="char:EOLhyphen"/>ſeſſing it, the ſame Eternity ſhall be the meaſure of your torments.</p>
+               <p n="16">16. It is not our part to make out own deſtiny, unleſs it be for our ſalvati<g ref="char:EOLhyphen"/>on or deſtruction, ſeeing every man hath liberty to do what he can for his own ſalvation or damnation; the e<g ref="char:EOLhyphen"/>vents of our life are, in the hands of Him, who hath numbred our dayes. We muſt undergo with ſubmiſſion the laws which he impoſeth upon us.</p>
+               <p n="17">17. He is moſt unhappy, who wiſh<g ref="char:EOLhyphen"/>eth alwayes for the good he hath not, and is never contented with that he hath. The Wiſe-man is never in queſt of his repoſe, becauſe he finds it within himſelf.</p>
+               <p n="18">18. Although a man be conſidered in regard of his Condition, yet that doth not-render him conſiderable. Sup<g ref="char:EOLhyphen"/>poſe his name make a noiſe, and his greatneſs a ſplendor, yet the noiſe is diſ<g ref="char:EOLhyphen"/>ſipated, and the ſplendor vaniſheth,
+<pb n="45" facs="tcp:41021:34"/>unleſs his vertue preſerve the memory of the one, and the beauty of the other.</p>
+               <p n="19">19. All men do complain of their fortune, notwithſtanding they have cauſe to be contented therewith: If God ſuffers, you to enjoy riches, are you not ſati fy'd? and if it be his will to with<g ref="char:EOLhyphen"/>hold them, you have no ground of diſ<g ref="char:EOLhyphen"/>content, provided he give you patience; a Poor contented, is far more happy than a Rich diſquieted.</p>
+               <p n="20">20. Never caſt your eyes upon other mens goods, leſt Envy give you a ſalfe poſſeſſion, making you Proprietary of them, without enjoying; content your ſelf with what God is pleaſed to beſtow upon you; how can you pretend to new favours from his Bounty, if his Juſtice have cauſe to upbraid you with unthank<g ref="char:EOLhyphen"/>fulneſs for that which he hath donal ready.</p>
+               <p n="21">21. Conſider, that the felicity of this life conſiſteth not in paſſing it without trouble, but rather in paſſing it without offence; ſo that the troubles of our life paſs away with it, but the torments of our ſins are everlaſting.</p>
+               <p n="22">22. What mattereth it in the Run<g ref="char:EOLhyphen"/>ing of our Race, whether it be at
+<pb n="46" facs="tcp:41021:35"/>high noon-day, or in the evening, I mean with magnificence, or without pomp? All conſiſteth in this, to run happily, to the end we may obtain the Crown.</p>
+               <p n="23">23. The Favorites of Fortune may well rejoyce in the light of the Sun, as they walk in their favour upon Ice; but the ſame Star that beholds them continually, makes the Ice melt away ſuddenly, whence it comes to paſs that they vaniſh in an inſtant, leaving us nothing but the memory of their mi<g ref="char:EOLhyphen"/>fery, with that of their name.</p>
+               <p n="24">24. Suffer not you ſelf to be tempted with Ambition, the good thereof is to come, and the trouble of it is preſent. It gives nothing but unprofitable deſires, and vain hopes. It argues great weak<g ref="char:EOLhyphen"/>neſs to loſe the Repoſe we enjoy, in expectation of a greater.</p>
+               <p n="25">25. Do not take much heed to the roughneſs of the path of your life; that part of it which is paſt will trouble you no more, and that which is before, may become fairer, and more pleaſant, by walking on in a continuall chearful<g ref="char:EOLhyphen"/>neſs. All conſiſts in your skilful entring
+<pb n="47" facs="tcp:41021:35"/>the gate of death; of all the moments of life, the laſt is only to be feared.</p>
+               <p n="26">26. The Wiſe-man findeth his Re<g ref="char:EOLhyphen"/>poſe every where; all times are his ſeaſon; and all places his abode; he waxeth old with contentment, becauſe his old age makes him draw near his grave, whence after he is ſown in rot<g ref="char:EOLhyphen"/>tenneſs, he is to ariſe in glory.</p>
+               <p n="27">27. This ſhould be a great comfort to us, to know, that we breath continu<g ref="char:EOLhyphen"/>ally under the protection of Providence; ſeeing that a haire cannot fall from our head, without the appointment thereof, in all our diſtreſſes, this ought to be our conſolation as well as our remedy.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="48" facs="tcp:41021:36"/>
+               <head>
+                  <hi>CHAP. VII.</hi> That he that knoweth how to live well, is the moſt learned man in the World.</head>
+               <p n="1">1. IF it be true, that the object of Knowledge is Truth, then know that there is nothing more true than this, that we are born to worke out our own ſalvation, and that we are to be rewarded according to our works.</p>
+               <p n="2">2. The moſt learned man in the world knoweth nothing, if he be ignorant of the means to be ſaved; and ſeeing Time and Nature can teach us only to die, we muſt ſeek for other School-maſters, who can teach us to be born again out of our own aſhes, to enjoy that immortality which we hope for.</p>
+               <p n="3">3. Put the caſe you were a great Aſtrologer, and by the rules of this Scienc <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> could foreſee your good or bad <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> fore-ſight were unpro<g ref="char:EOLhyphen"/>fitable
+<pb n="49" facs="tcp:41021:36"/>to you, becauſe, during the courſe of your liſe, you have nothing to do but to ſhun the miſery of your damnati<g ref="char:EOLhyphen"/>on to be eſteemed happy.</p>
+               <p n="4">4. It is not enough to be a good Divine, to comprehend (according to the capacity of your underſtanding) the myſteries of the Trinity; Faith and ſubmiſſion are the Principles of true Divinity; it is better to believe, then diſpute.</p>
+               <p n="5">5. I grant that Philoſophy may in<g ref="char:EOLhyphen"/>lighten your mind in the knowledge of the wonders of Nature; but you muſt aſcribe the glory of all to the Creator, and by meanes of theſe pleaſant ſtreams, re-aſcend to their ſcource.</p>
+               <p n="6">6. Logicks may teach you the Art to put Arguments in forme; but you muſt alwayes come to the concluſion of this laſt, that being born to die you muſt die to revive.</p>
+               <p n="7">7. The ſcience of true Phyſick con<g ref="char:EOLhyphen"/>ſiſts only in this, to find out ſoveraign remedies againſt the feaver of our paſſi<g ref="char:EOLhyphen"/>ons; becauſe if we die of this diſeaſe, our loſs is irrecoverable for all Eterni<g ref="char:EOLhyphen"/>ty.</p>
+               <pb n="50" facs="tcp:41021:37"/>
+               <p n="8">8. Suppoſe you were a great Lawyer; then do reaſon to your ſelf, do it to all the World; the only practice of this Law of Nature, doth briefly com<g ref="char:EOLhyphen"/>prehend the whole ſcience of the In<g ref="char:EOLhyphen"/>ſtitutions.</p>
+               <p n="9">9. What doth it availe to be learned in Languages; is it not ſufficient if a man can ſpeak the language of Reaſon? where works are neceſſary, words are needleſs.</p>
+               <p n="10">10. There are many who are curious to learn, by Cards and Maps, to know the extent of the Earth; but never re<g ref="char:EOLhyphen"/>flect upon this truth, that if one little point doth there repreſent a whole City, in what ſpace can they remarke that of their grave?</p>
+               <p n="11">11. True Morals do only conſiſt in living without reproach, to die without ſorrow; and the means to compaſs this, is to conſider the end of our actions, having alwayes Honour for our object, and duty for our guide.</p>
+               <p n="12">12. Not that Sciences are to be con<g ref="char:EOLhyphen"/>temned, the ſtudy of them is as com<g ref="char:EOLhyphen"/>mendable as neceſſary; but it is a ſa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> thing for a man to imploy the whol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="51" facs="tcp:41021:37"/>time of his life in the diligent ſearch of their Truths, without making pro<g ref="char:EOLhyphen"/>fit of this, that he who knoweth how to obey the Commandments of God, is the moſt learned man in the World.</p>
+               <p n="13">13. O how learned he is in all Sci<g ref="char:EOLhyphen"/>ences, that knoweth how to love God! and which may ſatisfy us in this, it is the Will alone that can render us learned, without ſtanding in need of any other Maſter.</p>
+               <p n="14">14. Wonder not if the Spirit of God ſaith, that <hi>The feare of the Lord is the beginning of Wiſedom,</hi> ſeeing the Love of him ought to be both the progreſs, and end thereof. They who can feare and love him, have paſt all their ſtudies.</p>
+               <p n="15">15. How many do we ſee that fol<g ref="char:EOLhyphen"/>low the World for to know it, as if the knowledge thereof were very difficult; if you would ſtudy it to purpoſe, you muſt do it in ſhunning it, becauſe the frequenting it is contagious.</p>
+               <p n="16">16. Learn nothing in this World, but to deſpiſe it; the Science of the Con<g ref="char:EOLhyphen"/>tempt thereof, is the moſt profitable of
+<pb n="52" facs="tcp:41021:38"/>all Sciences. A Traveller ſhould think of nothing but his journey, to follow the ſtraight way, without ſtaying at thoſe places where he paſſeth.</p>
+               <p n="17">17. Conſider that the World is a School, where men learn all ſorts of Sciences; but, Vanity being their Teacher, maketh ſo bad Schollars, that they periſh together with their Learn<g ref="char:EOLhyphen"/>ing.</p>
+               <p n="18">18. The greateſt Doctors are in a confuſion at the houre of Death, with all their Sciences, if they have been ſtill ignorant of the Art of Living well; what doth it availe them to have em<g ref="char:EOLhyphen"/>ployed all their time in the reading of good books, if their names be blotted out of the Book of Life?</p>
+               <p n="19">19. Be your own Maſter, and be in<g ref="char:EOLhyphen"/>ſtructed rather by the example of your actions, than by the Precept of others: a habitude to good, ſerves us for a leſſon to keep us in our duty, as an object al<g ref="char:EOLhyphen"/>wayes preſent, which doth powerfully move our underſtanding.</p>
+               <p n="20">20. It is dangerous to be very learn<g ref="char:EOLhyphen"/>ed, unleſs a man have the ſpirit of Humi<g ref="char:EOLhyphen"/>lity; becauſe the light of <hi>Nature</hi> ſo
+<pb n="53" facs="tcp:41021:38"/>dazleth our eyes with its ſplendor, when we approach too neer, that we become, for the moſt part, idolaters of thoſe ob<g ref="char:EOLhyphen"/>jects we admire; and our idolatry pre<g ref="char:EOLhyphen"/>pareth our puniſhment, in being the cauſe of our crime.</p>
+               <p n="21">21. Seeing that no man hath ever been able to find happineſs in Life, I wonder why they ſeek it not in Death. Truly the Wiſe-man hath good cauſe to poſſeſs our minds with thoughts there<g ref="char:EOLhyphen"/>of, ſeeing theſe alone can render it as pleaſant as profitable to us.</p>
+               <p n="22">22. Think not that the reading of good Bookes can make you learned; Practice muſt needs follow Speculation; and beſides, it is not enough to inſtruct others, unleſs your Actions go before your Precepts.</p>
+               <p n="23">23. The ſtudy of Meditation is very profitable for your advancement in Piety, if ſo be you draw Concluſions from all the Arguments you make. For, to have nothing but ſome fine re<g ref="char:EOLhyphen"/>flections, without drawing any profit from them, is to be engaged in a plea<g ref="char:EOLhyphen"/>ſant way, that hath no iſſue.</p>
+               <p n="24">24. He that renders himſelf capa<g ref="char:EOLhyphen"/>ble
+<pb n="54" facs="tcp:41021:39"/>of his Office and Calling, is not ig<g ref="char:EOLhyphen"/>norant of any thing he ought to know for his Salvation; and as this alone ought to be the object and end of his thoughts and actions, ſo I think him happy, if he imploy all his time in this ſtudy.</p>
+               <p n="25">25. It is hard to know the vanity of Sciences ſo long as we live; and ſeeing the knowledge thereof at death, is as unprofitable as the ſorrow for having miſpent our time, ſhun the detriment that may enſue thereupon, by the fore<g ref="char:EOLhyphen"/>warning I give you thereof.</p>
+               <p n="26">26. We know nothing, for the moſt part, but thoſe things which we ſhould not learn; we may well fill our under<g ref="char:EOLhyphen"/>ſtanding with the knowledge of Good and Evil, but the only Idea of the one remains with us, whereas the other is our conſtant practice.</p>
+               <p n="27">27. If you know not how to live, learn, at leaſt, to die; and although the Science of living and that of dying are often confounded together, yet the ſtudy of them is quite different; many leſſons may be learned in the Science of living, but in that of dying one leſſon is ſuffici<g ref="char:EOLhyphen"/>ent.</p>
+               <pb n="55" facs="tcp:41021:39"/>
+               <p n="28">28. Frequent no other School, but that wherein you may learn the Art of working out your own Salvation; be<g ref="char:EOLhyphen"/>cauſe without this Science, all others are to no purpoſe.</p>
+               <p n="29">29. The ſtudy of a mans ſelf makes alwayes good Scholars, and he that ſtudies to know himſelf, may be ſaid to be truly learned.</p>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="56" facs="tcp:41021:40"/>
+               <head>
+                  <hi>CHAP. VIII.</hi> That Moderation in Riches, is more to be deſired then Ex<g ref="char:EOLhyphen"/>ceſs, becauſe it is more pro<g ref="char:EOLhyphen"/>fitable.</head>
+               <p n="1">1. COvet neither to be Great nor Rich; a Moderation in this is to be wiſhed, as the Exceſs is to be feared; and although we muſt give an account of Poverty, as well as of Riches, This is often miſcounted, but That is al<g ref="char:EOLhyphen"/>wayes receivable.</p>
+               <p n="2">2. Suppoſe Rich men have a thou<g ref="char:EOLhyphen"/>ſand faire dayes in their life; how many foul nights have they which they hide from us? They that ſee the Roſes of their garden, know not how many Thorns they have in their ſoul.</p>
+               <p n="3">3. If you be reduced to win your liv<g ref="char:EOLhyphen"/>ing, win it in effect, in ſtead of loſing it; this life laſts but one day; you muſt
+<pb n="57" facs="tcp:41021:40"/>labour to purchaſe another which is e<g ref="char:EOLhyphen"/>ternal.</p>
+               <p n="4">4. If God hath given you Riches, beg for grace to make a good uſe of them, becauſe of the uſe of them de<g ref="char:EOLhyphen"/>pends the acquiring of true Treaſures.</p>
+               <p n="5">5. Be not too ſollicitous in purchaſing of Riches by unlawful means, leſt the torment of this crime abide with you; you acquire Goods in ſuffering much Evil; and God permits the one to be periſhing for your firſt puniſhment, and the other to be eternal for your finall torment.</p>
+               <p n="6">6. We reap no advantage by goods ill acquired; and God is not only pleaſed to make us witneſſes of the loſs of them, but alſo maketh himſelf Judge of the purchaſe of them, to puniſh us and a<g ref="char:EOLhyphen"/>venge himſelf.</p>
+               <p n="7">7. Ask nothing of God, but what is neceſſary for Life, and ſeeing it is tran<g ref="char:EOLhyphen"/>ſitory, gather Riches only to make your journey. If you have Children, en<g ref="char:EOLhyphen"/>rich them by your good Example, ra<g ref="char:EOLhyphen"/>ther than by other mens goods; the ſtraight path of life never leads to the Hoſpital.</p>
+               <pb n="58" facs="tcp:41021:41"/>
+               <p n="8">8. There are few Rich men happy; they make a God of their treaſure, and this falſe God forſakes them in return<g ref="char:EOLhyphen"/>ing to the true one, who puniſheth e<g ref="char:EOLhyphen"/>ternally for their idolatry,</p>
+               <p n="9">9. The Rich man hath no greater e<g ref="char:EOLhyphen"/>nemies then his Treaſures; becauſe they are the objects of a continual temp<g ref="char:EOLhyphen"/>tation, to taſte the pleaſures of the world; and ſeeing in this he thinketh no deſires unprofitable, in that power wherein he is, he renders himſelf miſerable, by being too happy.</p>
+               <p n="10">10. I never ſaw a Rich man con<g ref="char:EOLhyphen"/>tent; their greed increaſeth according to the meaſure of their Riches; and they never conſider, that living and dying in diſquiet, they begin their Hell in this World, never to end it in the other.</p>
+               <p n="11">11. If you could be able to moderate your Ambition, you would find that Repoſe which all the World ſeeketh after. He who doth limit his deſires with the injoyment of that Good which he hath, finds himſelf ſecurely ſheltered from all ſort of evills, except thoſe that cannot be ſhun'd.</p>
+               <pb n="59" facs="tcp:41021:41"/>
+               <p n="12">12. They that imploy both their cares and pains to heap up Riches, are much aſtoniſhed, when time faileth for enjoying of them; They ſow, for the moſt part for unknown Heirs, who make their harveſt, without having any Right in their ſucceſſion.</p>
+               <p n="13">13. Not to be poor, is to be very rich; wiſh only for what is neceſſary; deſpiſe what is unprofitable; and be afraid of abundance, as of a torrent of pleaſure which carrieth us head-long with it.</p>
+               <p n="14">14. He that is not tyed to the World is contented with little, he burthens himſelf only with neceſſaries for his journey, living from day to day, in ex<g ref="char:EOLhyphen"/>pectation of that day which is to put a period to his life.</p>
+               <p n="15">15. The wiſe Chriſtian longeth for nothing but after God; for ſeeing he reſigns himſelf abſolutely to the con<g ref="char:EOLhyphen"/>duct of his Providence, he hath no o<g ref="char:EOLhyphen"/>ther thoughts, but what his bounty in<g ref="char:EOLhyphen"/>ſpireth in him.</p>
+               <p n="16">16. If it be a pleaſure to be rich during our life, it is a grief to leave our riches at death; and this is it wherein
+<pb n="60" facs="tcp:41021:42"/>covetous men are deceived, for ſeeing this grief can never be felt but once, they never make tryal thereof but to their diſadvantage.</p>
+               <p n="17">17. I know very well that all men abhor Poverty; but they know not that Patience with it doth work miracles. The Poor-man content is a voluntary Martyr, who is offered in ſacrifice as often as he breaths in the air infected with his miſeries, ſeeing he dies every moment.</p>
+               <p n="18">18. Conſider, that Rich men can<g ref="char:EOLhyphen"/>not be ſaved but by the Poor; for God heapeth Riches on Thoſe, for no other end, but to be charitable to Theſe; and it is an infallible ſign of the repro<g ref="char:EOLhyphen"/>bation of a Prodigal, when he becomes covetous towards the Miſerable. He that refuſeth compaſſion, can never look for any.</p>
+               <p n="19">19. They that ask for Riches, do not know what they deſire, the good of the Earth is an unavoidable Evill, un<g ref="char:EOLhyphen"/>leſs it be uſed aright, and the good uſage of it is ſo rare, that we ſee few exam<g ref="char:EOLhyphen"/>ples of the practice thereof.</p>
+               <p n="20">20, When you envy the Riches of
+<pb n="61" facs="tcp:41021:42"/>your Neighbour, you murmure againſt Providence, which hath deprived you of them, and given them to him; the actions of God, accompanied with their juſtice, do at once impoſe upon you both ſilence and reſpect.</p>
+               <p n="21">21. Be not dazled at the ſplendor of Riches, it is the light of a deceitful Beacon, that draws you on to ſhip<g ref="char:EOLhyphen"/>wrack. Begin to make your Heaven in that condition wherein you are, to the end that ſtream may be joyn'd one day, to its ſcource, to heap upon your true Treaſures.</p>
+               <p n="22">22. The Trade of a Rich man is a baſe Trade, becauſe as it is very difficult, in the exerciſe thereof to ſave himſelf, ſo we ſee nothing but Apprentices in it, no body paſſeth Maſter.</p>
+               <p n="23">23. Know for certain that Hell is filled only with wicked Rich men; hence you may draw this advantage, in making the example of their deſtruction ſerve for a leſſon to ſhun it. When God makes us witneſſes of the miſeries of others, the ſame chaſtiſement threatens us.</p>
+               <p n="24">24. It is not hard for wicked men to make themſelves rich; but God ſuffers
+<pb n="62" facs="tcp:41021:43"/>eternall torments to be the ſucceſs of their pains paſt, they have ſown in la<g ref="char:EOLhyphen"/>bour, and they ſhall reap in ſorrow.</p>
+               <p n="25">25. He that ſeeketh his Riches in God, hath found the Philoſophers Stone, ſeeing he is rich according to the mea<g ref="char:EOLhyphen"/>ſure of his deſires, and as this Treaſure is of its own nature inſinite, ſo it aboun<g ref="char:EOLhyphen"/>eth alwayes with Riches, whether it be in Time, or in Eternity.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="63" facs="tcp:41021:43"/>
+               <head>
+                  <hi>CHAP. IX.</hi> That our Salvation and Repoſe depend of the knowledg of our ſelves.</head>
+               <p n="1">1. COnſider that God formed our firſt Parents of clay, to the end that the memory of his Original might be the Tomb of his Pride; and the chaſtiſement of the Angels, the con<g ref="char:EOLhyphen"/>tinual object of his fear.</p>
+               <p n="2">2. Take notice of your faults every moment, correct them every hour, if you would enjoy the light of your dayes at eaſe. He is very unhappy, who to the weakneſs of his mind, adds that of contemning the remedies thereof; al<g ref="char:EOLhyphen"/>though our Will alone can be able to cure us of it.</p>
+               <p n="3">3. They who do not know themſelves are wilfully blind, and are neither to be envyed, nor pitied, how can they beget compaſſion in others, if they have none
+<pb n="64" facs="tcp:41021:44"/>for themſelves: and how can they be envyed, ſeeing thoſe who have imitated them, are not otherwiſe known than by the memory of their ruine.</p>
+               <p n="4">4. The Wiſeman liveth only to know himſelf, to the end that knowing him<g ref="char:EOLhyphen"/>ſelf he may live happily: Becauſe this Life is pleaſant in nothing, but in the hope to exchange it for a better, there<g ref="char:EOLhyphen"/>fore he ſtudieth his miſeries for to con<g ref="char:EOLhyphen"/>temn the World that produceth them.</p>
+               <p n="5">5. Let your own unworthineſs be your object; becauſe you are truly nothing at all; to run alwayes towards our grave, without being able to ſtay, but to enter therein, is not this to die, rather then to live? yet think at leaſt, when you are running, that every ſtep may be the laſt of your jour<g ref="char:EOLhyphen"/>ney, and that in going out of the Em<g ref="char:EOLhyphen"/>pire of Time, you enter into that of Eter<g ref="char:EOLhyphen"/>nity.</p>
+               <p n="6">6. Study your misfortunes, that you may be happy; ſtudy your miſeries that you may be exempted from them; ſo that, as the ſtudy will make you know the nature of your condition; you will without doubt, mitigate the bondage,
+<pb n="65" facs="tcp:41021:44"/>by the neceſſity which you will impoſe upon your ſelf, to ſuffer it without re<g ref="char:EOLhyphen"/>pining.</p>
+               <p n="7">7. I do not much wonder that the Prophet preacheth no other thing to us but the knowledge of our ſelf; ſee<g ref="char:EOLhyphen"/>ing this ſtudy alone can render us learn<g ref="char:EOLhyphen"/>ed. Learn to live, learn to die, theſe are the leſſons which are taught in <hi>Wiſedoms</hi> School.</p>
+               <p n="8">8. All the faults of our life proceed only from the ignorance of our miſeries, for it is impoſſible to know them, and go aſtray from our duty; we live in appearance, and we die indeed; we are under the Empire of Time, becauſe every moment we change countenance with it; we do ſenſibly breath under the Tyranny of Fortune; what cauſe have we then to be proud?</p>
+               <p n="9">9. Examine your ſelf often how you employ your time, that you may give account thereof to your ſelf before it be asked of you; to the end you may benefit your ſelf in the time to come, by the memory of what is paſt, in being a good husband of the time preſent.</p>
+               <pb n="66" facs="tcp:41021:45"/>
+               <p n="10">10. Every man that is ignorant of himſelf, cannot go far without ſtumbling in his blindneſs; and it is to no pur<g ref="char:EOLhyphen"/>poſe for him to be led, for if he fall not to day, he will ſurely fall to morrow, ſince that his Fall is unavoida<g ref="char:EOLhyphen"/>ble.</p>
+               <p n="11">11. Attribute nothing to Chance, nor Fortune, and receive all from Pro<g ref="char:EOLhyphen"/>vidence, without making a diſtinction of the Preſents thereof. Becauſe Good and Evil come from the hand of Provi<g ref="char:EOLhyphen"/>dence, they ought to be alike acceptable to you. A humble ſpirit never murmu<g ref="char:EOLhyphen"/>reth.</p>
+               <p n="12">12. If the whole Knowledge of Wiſedom be compriſed in this one pre<g ref="char:EOLhyphen"/>cept, <hi>To know our ſelves,</hi> you cannot be wiſe but according to the meaſure of this Knowledge. Frequent Schools, turn over Books, follow the Learned, yet you muſt ſtudy your ſelf if you would become ſuch.</p>
+               <p n="13">13. What doth it availe you to know all the Maximes of Law, unleſs you practiſe them, in doing your ſelf Juſtice firſt? Is not this a fooliſh Ar<g ref="char:EOLhyphen"/>gument, when you are upon your way
+<pb n="67" facs="tcp:41021:45"/>never to think of the journey you are making, becauſe you are not to turn back.</p>
+               <p n="14">14. It is hard to believe, that a man finding himſelf taken with an incu<g ref="char:EOLhyphen"/>rable diſeaſe, ſhould not feel his Pulſe ſometimes. You perceive your ſelf dying every day, how is it poſſible that you cannot lift up your head often, to ſee what it is a clock by your Dy<g ref="char:EOLhyphen"/>all.</p>
+               <p n="15">15. If you enjoy a Life without think<g ref="char:EOLhyphen"/>ing of it, you deſerve not to live. The Wiſe-man giveth an account to himſelf, before he gives it to others; and as he is born to die, and dyeth every houre; ſo, every moment he thinks of that Ne<g ref="char:EOLhyphen"/>ceſſity, whereof the laws cannot be vio<g ref="char:EOLhyphen"/>lated.</p>
+               <p n="16">16. O how hard it is for a man to learn to live, after he hath lived a long time! the evil habits and cuſtomes he hath contracted, do ſo fortify them<g ref="char:EOLhyphen"/>ſelves againſt reaſon, that as long as they preſide in his Councel, the voice of Rule is uſeleſs.</p>
+               <p n="17">17. Let not Time ſurpriſe you; ſtudy your life betimes; and though it be
+<pb n="68" facs="tcp:41021:46"/>ſtill ſliding away, yet the profit of your ſtudy remains; he that hath a deſire to be learned, is already ſuch.</p>
+               <p n="18">18. Never draw vanity from any thing you know; ſeeing that Knowledg, how great ſoever it be, is as vain as you, un<g ref="char:EOLhyphen"/>leſs your Salvation be the object thereof. It is far better to be skilfull in tilling the Earth, without pretending to any more then ſo much of it as may make us a grave, then to walk ſumptuouſly on it with magniſicent or naments, without making reflection that we are formed of the duſt thereof.</p>
+               <p n="19">19. I eſteem to body learned but them who walk continually in the way of their duty: for ſince that that is the Wiſe mans guide, we have forgotten all that it could teach us, if we do not keep it company.</p>
+               <p n="20">20. This is not all, to begin to know your ſelf; you muſt perfect your Studies in the School of this Knowledg. If you be learned to day, you ſhall yet be more learned to morrow; and you ſhall aver at the end of your time, that you have employed it to good purpoſe; becauſe after it is paſt, it ſtill remains in the
+<pb n="69" facs="tcp:41021:46"/>advantage you have made thereby.</p>
+               <p n="21">21. Make you a ſolitude in the midſt of your Palaces, to entertain your ſelf in ſecret: mark out a withdrawing-room for your ſelf, to enjoy your own com<g ref="char:EOLhyphen"/>pany in quiet. It is one of the moſt profitable pleaſures of Life, to know how it paſſeth, to the end we may not ſorrow for it when it is paſt.</p>
+               <p n="22">22. In fine, let every man do for himſelf. I have learned theſe Precepts which I lay before you; and in this, I wiſh my example had out-ſtript my Pen; to teach you, by Practice, what I have endeavoured to perſwade you by Diſcourſe.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="70" facs="tcp:41021:47"/>
+               <head>
+                  <hi>CHAP. X.</hi> That we ought to derive our Nobility from our ſelves, as well as from our Ance<g ref="char:EOLhyphen"/>ſtors.</head>
+               <p n="1">1. IF you are not Noble of your ſelf, as well as by Deſcent, draw no ad<g ref="char:EOLhyphen"/>vantage from your Nobility; vertue a<g ref="char:EOLhyphen"/>lone gaineth eſtimation, as Vice cauſeth contempt.</p>
+               <p n="2">2. What doth it profit you, that the Name you bear is recorded in Hiſtory, if yours darken the luſtre thereof? Mud<g ref="char:EOLhyphen"/>dy ſtreams make us loſe the belief of the clearneſs of their ſpring.</p>
+               <p n="3">3. Let your brave Actions be your noble Anceſtors; and forget your anci<g ref="char:EOLhyphen"/>ent Nobility, to enable your ſelf anew. There are no Crowns ſo rich as thoſe of our own making.</p>
+               <p n="4">4. We ought to be aſham'd, when
+<pb n="71" facs="tcp:41021:47"/>our Predeceſſors are prais'd, that we cannot have a ſhare in the praiſes they receive, ſeeing they make us bluſh for not having deſerved them.</p>
+               <p n="5">5. Set your ſelf on work about the Hiſtory of your own life, that it may ſerve for an ornament to the Hiſtory of the Age; and let not your Anceſtors have any other advantage of you, but, to have gone before you in the path of Glory, following their footſteps to fill their traces.</p>
+               <p n="6">6. It is not enough for a man to be Noble by Birth and Condition, he muſt be ſo by his way of living; and muſt take notice of his own manners, to correct them, rather than of his Nobility to prove it.</p>
+               <p n="7">7. Neither the ſplendor of your Name, nor the greatneſs of your Houſe, are ſuffi<g ref="char:EOLhyphen"/>cient titles of Nobility, you muſt pro<g ref="char:EOLhyphen"/>duce ſome that are newer, it is too great a trouble to enquire how your Anceſtors have lived, it is enough to know how you live, becauſe your life ſhould be the beſt marke of your Nobility.</p>
+               <p n="8">8. It will be inquired, at the hour of death, if you have lived like a
+<pb n="72" facs="tcp:41021:48"/>Chriſtian, rather then like a Gentle<g ref="char:EOLhyphen"/>man. And though you cauſe the Ti<g ref="char:EOLhyphen"/>tles of your Nobility to be engraven up<g ref="char:EOLhyphen"/>on your Tomb, your actions alone will follow you beyond it.</p>
+               <p n="9">9. A Noble man ought to live nobly, both for himſelf and for others, and ſee<g ref="char:EOLhyphen"/>ing he is elevated above the rank of the vulgar, all his actions muſt be extraor<g ref="char:EOLhyphen"/>dinary, to the end that they may ſerve as lights to them that are below him.</p>
+               <p n="10">10. There are ſome that take great pains about their Pedigree, to prove the antiquity of their Race; as if they could challenge any thing from the reputation of their Anceſtors. They may well call themſelves Heirs of their Goods; but the ſucceſſion of their Glory is of ſuch nature, that they cannot enjoy it, unleſs they deſerve it.</p>
+               <p n="11">11. Although you were deſcended of the Race of Kings; if your actions be not anſwerable to your Birth, a man may lawfully queſtion the Nobility of your Original; and if you prove the Anti<g ref="char:EOLhyphen"/>quity thereof by your Titles, theſe are falſe witneſſes, for your life doth belye them.</p>
+               <pb n="73" facs="tcp:41021:48"/>
+               <p n="12">12. If you be born Great, do Great things; but though you labor in Time, take your aim in Eternity; the Earth is the Grave of all that it produceth.</p>
+               <p n="13">13. If you be of a condition not very eminent, raiſe your ſelf above it by your vertue, and render your ſelf conſiderable of your ſelf: An excellent Picture car<g ref="char:EOLhyphen"/>rieth its luſte with it.</p>
+               <p n="14">14. Although Nature hath made you Noble, yet draw the confirmation of your Nobility from Vertue, for that one<g ref="char:EOLhyphen"/>ly can juſtifie it; and live always for the time to come, to the end, that the memory of what is paſt, may be delect<g ref="char:EOLhyphen"/>able to you: Time cannot ſurpriſe us, when it is well employed.</p>
+               <p n="15">15. Know, that true Nobility conſiſts in doing no action unworthy of it. You may well fill Hiſtory, with the Fame of your Exploits; but the generous thoughts of your heart, muſt be anſwerable to the glorious actions of your life; and you muſt be at agreement with your ſelf, by the ſtraight Alliance of your Vertue, with your Glory.</p>
+               <p n="16">16. It is far better to be Noble in Minde, than by Birth: It is ſeldom en<g ref="char:EOLhyphen"/>quired,
+<pb n="74" facs="tcp:41021:49"/>quired of what condition our Fathers were, but every Body is curious to know what Trade we drive; not becauſe they pretend to any intereſt therein, but the World being a Stage, where every Man actoth his part, all the Spectators are our Judges.</p>
+               <p n="17">17. How many do we ſee take pains to obtain Patents of Nobility, as if the Title could beſtow the Merit thereof. They had rather exempt their Wealth from Taxes, than their Life from Re<g ref="char:EOLhyphen"/>proaches, without conſidering the neceſ<g ref="char:EOLhyphen"/>ſity, to which they are reduced; to for<g ref="char:EOLhyphen"/>ſake that Wealth which they would glad<g ref="char:EOLhyphen"/>ly preſerve, and to give an account of that Life, whereof they have contemned the reputation.</p>
+               <p n="18">18. If your Name be not known by your Condition, make it known by your Exemplary Life. Vertue is a Balm, whereof the ſweet Odor is ſpread every where.</p>
+               <p n="19">19. We have no cauſe to call Na<g ref="char:EOLhyphen"/>ture, Step-mother, what inequality ſoever we finde betwixt the Noblemen, and the Peaſants, ſince that by Birth and Death we have the ſame deſtiny. And if
+<pb n="75" facs="tcp:41021:49"/>there appear a great difference in their Life, yet know, that the different ways which they keep, do meet at the Grave.</p>
+               <p n="20">20. If you draw Vanity from the out<g ref="char:EOLhyphen"/>ward qualities of the Body, Time will make you know your Folly every day, becauſe it deſtroyeth the ground thereof every moment, In ruining the ſubject that cauſeth it.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="76" facs="tcp:41021:50"/>
+               <head>
+                  <hi>CHAP. XI.</hi> That we ought to be diſ-engaged from all things; to the end, That we may live without diſquiet, and die without ſor<g ref="char:EOLhyphen"/>row.</head>
+               <p n="1">1. CAll not your ſelf the Owner of the Goods you poſſeſs; every moment reneweth unto you the favor of the uſe of them: We have nothing that is our own, but miſeries and unhappi<g ref="char:EOLhyphen"/>neſs.</p>
+               <p n="2">2. If your heart be faſtned on any Object, conſider the periſhing nature of it; and ſeeing you cannot love it, but as a tranſitory thing, juſtifie your love by the neceſſity of its ruine.</p>
+               <p n="3">3. When we love any thing paſſion<g ref="char:EOLhyphen"/>ately, we expoſe our ſelves anew to the view of Fortune, which can wound us in as many parts, as we are divided.</p>
+               <pb n="77" facs="tcp:41021:50"/>
+               <p n="4">4. The Covetous man, whoſe heart is in his Treaſures, feels it pluckt out as often as they are diminiſhed, without conſidering, that as ſtreams return to their ſource, ſo this Piece of Earth, wherewith he is intruſted, muſt be re-joyned to its whole.</p>
+               <p n="5">5. The Ambitious man, who renders himſelf Imaginary Poſſeſſor of all the goods he wiſheth, believeth, that he is robbed of them, when he is prevented in acquiring them. This lets us ſee, that as we live in our Paſſions, ſo we feel our ſelves dying with the cauſes of their Birth.</p>
+               <p n="6">6. All that you would love, love it in God; to the end, that your Love may produce your Repoſe, rather than your Trouble. All the Affections which we contract in this World, do nothing elſe but breed, and die, ſeeing every mo<g ref="char:EOLhyphen"/>ment may be the firſt and laſt of their continuance.</p>
+               <p n="7">7. What an ingenious thing it is, for a man to torment himſelf, in being will<g ref="char:EOLhyphen"/>ing to die for every object he loveth! Is it not enough to give up his heart to one love, that is allowable and lawful, with<g ref="char:EOLhyphen"/>out
+<pb n="78" facs="tcp:41021:51"/>dividing it amongſt a thouſand other Paſſions, to reſent as many different tor<g ref="char:EOLhyphen"/>ments.</p>
+               <p n="8">8. The Chains wherewith we are tyed here below, are eaſie to be made, and hard to be broken. And if death alone reſtore us to liberty, yet we loſe it in recovering it, ſeeing that, commonly, we carry the guilty remembrance of our pleaſant Bond<g ref="char:EOLhyphen"/>age to the Grave with us.</p>
+               <p n="9">9. A mans love towards himſelf, is to be excuſed, when his Salvation is the ob<g ref="char:EOLhyphen"/>ject thereof; he is permitted to love himſelf in a lawful way, yea, with ex<g ref="char:EOLhyphen"/>ceſs too, uſing extraordinary endeavors, to teſtifie the violence of that Love, by the contempt of all other.</p>
+               <p n="10">10. Happy is that man who is altoge<g ref="char:EOLhyphen"/>ther his own, that he may give himſelf wholly to God: Unhappy is he, that af<g ref="char:EOLhyphen"/>ter he hath given his heart to the World, ſeeth himſelf conſtrained to leave it with the World, not having ſo much power as to take it back.</p>
+               <p n="11">11. The Wiſemans Love is never blinde, becauſe Reaſon (which is no<g ref="char:EOLhyphen"/>thing elſe but Light) produceth it:
+<pb n="79" facs="tcp:41021:51"/>Whence it comes to paſs, that he loveth with pleaſure, drawing his delights from the Object of his Affections, which are as harmleſs as himſelf.</p>
+               <p n="12">12. Every Body loveth Liberty, yet every Body is engaged: They that have no Maſter, become Slaves to their own Paſſions; and in this ſhameful Bondage, they render themſelves unworthy of com<g ref="char:EOLhyphen"/>paſſion, becauſe they have no compaſſion on themſelves.</p>
+               <p n="13">13. Seeing that Chriſtian Perfection conſiſts in the contempt of all things, and in the diſ-engagement from our Selves, we muſt be our own; to the end, that we may give our ſelves: Unleſs our hearts be emptied, they ſhall never be fill<g ref="char:EOLhyphen"/>ed with God.</p>
+               <p n="14">14. Every man goeth about his own buſineſs, and we do always forget the moſt important, which is that of our Salvation: All others are unprofitable at the end of our days work, ſeeing an ac<g ref="char:EOLhyphen"/>count will not be required of them, no not ſo much as of their ſucceſs.</p>
+               <p n="15">15. I know very well, that all our de<g ref="char:EOLhyphen"/>ſires do divide our heart; and it is ſo
+<pb n="80" facs="tcp:41021:52"/>poſſeſſed with a continual longing after their object, that it liveth out of its ſelf for anothers ſake: But though it be divided during life, it muſt needs be united in it ſelf, at laſt, to die all alone for its ſelf onely.</p>
+               <p n="16">16. Do not wait till Age draw you from the World; but, preventing Ne<g ref="char:EOLhyphen"/>ceſſity by Reaſon, triumph over your ſelf, before Time become your Con<g ref="char:EOLhyphen"/>queror.</p>
+               <p n="17">17. Conſider that your Habits and Cuſtoms are as ſo many Bonds, which ſtrengthen themſelves continually; and ſeeing Nature doth much contribute thereunto, all endeavors, at laſt, are too weak to break them, without the help of Grace.</p>
+               <p n="18">18. O what a contentment it is to a man, to be free to die, and to be wholly his own at the hour of death! The Ob<g ref="char:EOLhyphen"/>jects of our Paſſions, are as ſo many Chains, which faſten us to the World, when we are upon the point of departing from it: We muſt bid them adieu betimes, that we may make our retreat without ſorrow.</p>
+               <p n="19">19. It is very hard for us to hinder
+<pb n="81" facs="tcp:41021:52"/>our ſelves from being ſurpriſed by Time, in thoſe Affections that we contract here below; becauſe, as the hour of our de<g ref="char:EOLhyphen"/>parture is uncertain, and the hope that dieth after us, deceiveth us too, ſo we do not commonly forſee our miſhap, but when it is unavoidable.</p>
+               <p n="20">20. Diſ-engage your ſelf from your Children, and, after you have put them under the Protection of Providence; it is enough to ſhew them the way wherein they ſhould walk, to work out their own ſalvation, by going before them your ſelf.</p>
+               <p n="21">21. Be not tied with your Dignities; theſe are the Liveries of Fortune, which ſhe giveth and taketh away at her plea<g ref="char:EOLhyphen"/>ſure: Content your ſelf in that you de<g ref="char:EOLhyphen"/>ſerve them, ſeeing you muſt give an ac<g ref="char:EOLhyphen"/>count of the uſe of them.</p>
+               <p n="22">22. Let not your heart finde any place in your Palaces, to lodge its Affections there, leaſt the Chains thereof be too ſtrong. Do not eſtabliſh your dwelling there, all the ſteps of your walks are numbred; and in going under the covert of the ſhady Allies in your Gardens, you draw nearer your Grave.</p>
+               <pb n="82" facs="tcp:41021:53"/>
+               <p n="23">23. Every Man loveth his Repoſe, and no body takes pains to acquire it. It is not enough to be rich in this World, and to taſte of a thouſand pleaſures there<g ref="char:EOLhyphen"/>in; becauſe theſe riches remain in the World, and the pleaſures paſs away, leaving us nothing but a troubleſome re<g ref="char:EOLhyphen"/>membrance, and an unprofitable ſorrow.</p>
+               <p n="24">24. It is not enough to live at Liber<g ref="char:EOLhyphen"/>ty, we muſt die ſo; and what tye ſoever we have here below, the failing of the heart is that of the Soul, becauſe the will of this, followeth the thoughts of the other.</p>
+               <p n="25">25. If you be addicted to the World, quit this bad Maſter betimes, and reſtore you to your ſelf, that you may offer your ſelf totally to God. All ſtreams return to their Fountain; all Beams are joyned to the Body of their Light. You muſt ren<g ref="char:EOLhyphen"/>der your Soul to its Creator, in the Inno<g ref="char:EOLhyphen"/>cency of Baptiſm, and in the Freedom of your Cradle.</p>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="83" facs="tcp:41021:53"/>
+               <head>
+                  <hi>CHAP. XII.</hi> That the Good we do in this World, is of greater value than the Goods we poſſeſs in it.</head>
+               <p n="1">1. THink not that you are Rich accord<g ref="char:EOLhyphen"/>ing to the worth of the Goods you poſſeſs; but rather according to the meaſure of the Good which you do. Your Treaſures remain with your Heirs, but your Works follow you. Thoſe are Stran<g ref="char:EOLhyphen"/>gers to your Soul, but theſe do properly belong to it.</p>
+               <p n="2">2. The Inventory of your Goods ſerve onely for a memory of the Accompt you have to make, both of the Purchaſe, and the Uſage of them: So that when you die, you ſhall know, that you have taken pains onely for others; ſeeing they are to reap the fruit of your labors, and alſo of the torments appointed for you.</p>
+               <pb n="84" facs="tcp:41021:54"/>
+               <p n="3">3. He is truly miſerable, who hath his Coffers filled with Money, and his Soul ſtained with the guilt of the pur<g ref="char:EOLhyphen"/>chaſe thereof. Suppoſe your Riches did level the path of your life, to render it more pleaſant, and you ceaſe not to go on in your journey; but when you are at the end of your courſe, you ſhall be afraid of him whom you ſhall finde there, after you have forgotten him, to whom you ſhould rather have betaken your ſelf.</p>
+               <p n="4">4. Every body taketh pains for this Life, as though it were immortal; and no body thinks on Death, which we carry in our boſome: Whence it comes to paſs, that after we have ſpent our time in gathering of Riches, a ſtranger enjoyeth them for our firſt puniſhment, and Hell waiteth for us, for our final torment.</p>
+               <p n="5">5. To what purpoſe do you put out your Money to Uſury, to aſſure your ſelf of this Life, ſeeing, that by Grace you wait continually for the Life to come, to prolong it? The Fire of Covetouſ<g ref="char:EOLhyphen"/>neſs, devoureth you in the behalf of a Life, which is nothing but the ſmoak
+<pb n="85" facs="tcp:41021:54"/>thereof; ſince that, like ſmoak, it is diſ<g ref="char:EOLhyphen"/>ſipated by the blaſt of our ſighs.</p>
+               <p n="6">6. You keep an exact account of your Revenues and Disburſements, without conſidering, that you have nothing, which is to be valued but the time you have to live; and becauſe that is uncertain, and Death infallible, you muſt make good the uſe and poſſeſſion of a Good which you forſake for ever.</p>
+               <p n="7">7. What pleaſure can you take in walking abroad upon your Territories, if at every ſtep you walk upon your Grave? You take all your Walks in a Circle, whereof your Grave is the Centre.</p>
+               <p n="8">8. You enjoy, indeed, a great ſatis<g ref="char:EOLhyphen"/>faction, in having many Houſes of Plea<g ref="char:EOLhyphen"/>ſure, there to paſs the different ſeaſons of the year; but the year paſſeth, and your pleaſures too, and from ſeaſon to ſeaſon, your laſt approacheth, wherein you muſt give an account of the Fruits, which all theſe ſeaſons have yielded you.</p>
+               <p n="9">9. It is a ſad pleaſure for a man to contemplate himſelf in his greatneſs, as in a Looking-Glaſs; becauſe, though this Looking-Glaſs did flatter us, yet it
+<pb n="86" facs="tcp:41021:55"/>cannot repreſent us, but in a continual motion, ſeeing our life hath no ſtay; and what delight can we have in a way, how pleaſant ſoever it be, if it end at the Grave.</p>
+               <p n="10">10. How aſtoniſhed may a Man be, at the reading of his Teſtament, when he heareth the Inventory of the Goods he hath purchaſed; but hath no body to repre<g ref="char:EOLhyphen"/>ſent to him, the Good he hath done! Yet he forſaketh Thoſe eternally, and to all Eternity he can pretend to nothing, but the fruits of Theſe: Judge of his aſtoniſh<g ref="char:EOLhyphen"/>ment by this thought.</p>
+               <p n="11">11. Do not reckon Greatneſs and Riches in the number of the Felicities of this Life, they are either the Goods of Nature or Fortune, whereof the uſe is much more dangerous, than the poſſeſſi<g ref="char:EOLhyphen"/>on ſeems pleaſant. He is Great before God, who is willingly Small before Men.</p>
+               <p n="12">12. Conſider, that the Goods which the World yieldeth, are falſe, but the Miſeries true: And if, when you die, you be rich onely in pieces of Land, that Earth will remain to you, both for your Grave, and for your ſhare.</p>
+               <pb n="87" facs="tcp:41021:55"/>
+               <p n="13">13. You cannot enrich your Soul, but with Eternal Goods, ſeeing thoſe that are periſhing, are not for its uſe. You cannot heap up Treaſures in your Soul, unleſs Heaven be the Fountain of them.</p>
+               <p n="14">14. It is a great eaſe to our Minde, that we have onely purchaſed Goods to do Good withal; and that we can be able to diſtribute that before we die, which we would give after death: For, by making it paſs through ſtrange hands, we run the hazard of diminiſhing our Charity, although we enjoy the advant<g ref="char:EOLhyphen"/>age thereof.</p>
+               <p n="15">15. Although we ſhould not keep an Accompt of the good Deeds which we do, yet it is lawful to preſerve the re<g ref="char:EOLhyphen"/>membrance of them; ſo that the Me<g ref="char:EOLhyphen"/>mory being filled with a habit ſo com<g ref="char:EOLhyphen"/>mendable; this Object always preſent, powerfully moveth the Will, whereon de<g ref="char:EOLhyphen"/>pends our future concernment.</p>
+               <p n="16">16. He that doth much Good, ga<g ref="char:EOLhyphen"/>thereth much Goods. A good life filleth the Houſe with Riches, in filling it with gladneſs. A voluntary, or patient Poverty, may enrich us with Real Trea<g ref="char:EOLhyphen"/>ſures.</p>
+               <pb n="88" facs="tcp:41021:56"/>
+               <p n="17">17. Be not diſquieted for the mean<g ref="char:EOLhyphen"/>neſs of your Eſtate; what is Neceſſary, is ſufficient to the Wiſeman: Abundance never produceth Repoſe, but Mediocrity is able to give it.</p>
+               <p n="18">18. He is free indeed, who willeth always that which God willeth: But ſince that we are blinde in our Liberty, not knowing to what we ſhall direct our determinations, we preſerve our Free<g ref="char:EOLhyphen"/>dom, in putting it into the hands of him who gave it us, to make a good uſe there<g ref="char:EOLhyphen"/>of; ſeeing He is the Object, and the End of that Uſage.</p>
+               <p n="19">19. Covet no more riches, than God beſtows on you, or what comes of the ſweat of your Labors: And though your Children have no more, know, that the Seed thereof is ſo fruitful, that it in<g ref="char:EOLhyphen"/>creaſeth continually, and is never dimi<g ref="char:EOLhyphen"/>niſhed.</p>
+               <p n="20">20. If you knew how great a pleaſure it were to do good, you would contract ſo powerful habits of it, that it were im<g ref="char:EOLhyphen"/>poſſible to break them. But if you be ſo unhappy, as to doubt of it, let this diſ<g ref="char:EOLhyphen"/>advantage yield you ſome profit, becauſe experience may make you happy.</p>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="89" facs="tcp:41021:56"/>
+               <head>
+                  <hi>CHAP. XIII.</hi> If we would leave the World chearfully, we muſt diſ-en<g ref="char:EOLhyphen"/>gage our ſelves from it, ere we leave it.</head>
+               <p n="1">1. STudy to know the World, that you may learn to contemn it, ſee<g ref="char:EOLhyphen"/>ing the contempt thereof proceeds from the knowledge we have of it: No man ever knew it, and loved it; and they that tie themſelves to follow it, are wilfully blind, who ſettle their chief happineſs here below.</p>
+               <p n="2">2. If Examples are able to inſtruct you, you have no more to do, but to caſt your eyes on every ſide, to look on the miſerable People the World hath made, and is every day a making. You may draw your advantage from their loſs, in conſidering, from the Haven wherein you are, the ſtorms wherewith they are encompaſſed.</p>
+               <pb n="90" facs="tcp:41021:57"/>
+               <p n="3">3. It is true, that the World hath nothing to give but Roſes; but after<g ref="char:EOLhyphen"/>wards it afflicteth our ſpirits, and to en<g ref="char:EOLhyphen"/>creaſe our miſeries, the Roſes thereof laſt but for a Morning, but the Thorns are Everlaſting; the Pleaſures thereof paſs away, but the Torments follow us beyond the Grave.</p>
+               <p n="4">4. I know very well, that it is hard to reſiſt the Worlds allurements, and that <hi>Reaſon</hi> muſt needs employ her uttermoſt endeavors to render her ſelf Commandreſs of its Charms; but a humble ſpirit, and a zealous heart, may hope for all things from Grace. It is this alone that maketh us triumph in Combats, to give us the Crown of the Victory.</p>
+               <p n="5">5. If the World tempt you with Riches, it is a Good, whereof the ill-imploying may render you eternally miſe<g ref="char:EOLhyphen"/>rable: And truly it is ſo difficult to im<g ref="char:EOLhyphen"/>ploy them well, that the wiſeſt men in this point, are in continual fear, becauſe they are in continual danger.</p>
+               <p n="6">6. If the World tempt you with Greatneſs of Birth, conſider that it is a Roſe-bud, whereof you are both the Sun and the Dew, becauſe you cannot be
+<pb n="91" facs="tcp:41021:57"/>truly Great, but by your own Vertue. Nature, indeed, may crown you from your Cradle; but it is onely the crowns of your own making, that muſt render you truly Glorious.</p>
+               <p n="7">7. If your Youth ſuggeſt any temp<g ref="char:EOLhyphen"/>tation to engage you to follow the World, conſider, that it is the Hand of a Clock which commonly goeth falſe; becauſe every moment may be that of your Re<g ref="char:EOLhyphen"/>treat, but ſuch a Retreat as hath no Re<g ref="char:EOLhyphen"/>turn.</p>
+               <p n="8">8. Be not ſurpriſed by the ſmiles of Fortune: All the Calms of the Sea there<g ref="char:EOLhyphen"/>of, are ſo many preſages of an enſuing Tempeſt; and Shipwrack is ſo much the more unavoidable, as the Calm hath been of long continuance. Fortune alone never rendered a Man happy.</p>
+               <p n="9">9. There is no condition in the World to adventure upon; and although Crowns and Scepters be as Laurels, under the ſhel<g ref="char:EOLhyphen"/>ter of which, we may be ſafe from Light<g ref="char:EOLhyphen"/>nings; yet Fortune hath ſettled on Earth, her Right of taking them away, though ſhe do not give them: Every Age fur<g ref="char:EOLhyphen"/>niſheth us with ſaid examples of this Truth.</p>
+               <pb n="92" facs="tcp:41021:58"/>
+               <p n="10">10. The Chains which tye us to the World, are hard to be broken, unleſs we break them betimes; becauſe, when we uſe our ſtrongeſt endeavors to make them take effect; the trouble doth aſtoniſh us, and courage fails us, with ſo much the more reaſon as we endeavor the ruine of our own Contentments.</p>
+               <p n="11">11. We muſt live in the World, as in a ſtrange Country, where we are every day taking our Farewel, being always ready to depart; and becauſe the moment of our departure is uncertain, we ought to wait for it every hour. The Wiſe Chriſtian that hearkneth to the minutes of his breathing, can never be ſurpriſed, when the hour of his l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt ſigh ſtriketh.</p>
+               <p n="12">12. The World never made but un<g ref="char:EOLhyphen"/>happy men; theſe are works of its own making, and it can make no other. It is a fine thing for the Slaves thereof, to live and die in the pomp they are in: But the ſplendor thereof, doth onely dazle feeble ſpirits, becauſe ſtrong ones break<g ref="char:EOLhyphen"/>ing the berk of appearances, do evident<g ref="char:EOLhyphen"/>ly ſee their mi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fortunes.</p>
+               <p n="13">13. I do not wonder that our firſt Parents were deceived by the World,
+<pb n="93" facs="tcp:41021:58"/>ſeeing they were deprived of thoſe Pre<g ref="char:EOLhyphen"/>cepts that Example might give them: But I think it very ſtrange, that walking on the Sepultures of thoſe whom the World hath deceived, we become not wiſe by the remembrance of their folly.</p>
+               <p n="14">14. Take leave of your ſelf, before Neceſſity conſtrain you to take your laſt Farewel; and ſeeing it is the Trade of the World to make men ſlaves, as well as miſerable, follow it without being tyed to it; to the end, that dying in that freedom wherein you was born, you may have no other Maſter to give an account unto, but one.</p>
+               <p n="15">15. They who devote themſelves to the World for a time, render their Vow eternal, before they are aware, having neither leaſure nor courage to violate it; and if, by good luck, this doth not fail them, the want of the other makes their deſtruction infallible, and their loſs un<g ref="char:EOLhyphen"/>recoverable.</p>
+               <p n="16">16. All the lovers of the World, die commonly Idolaters thereof; but the miſery is, that Time expoſeth them for Sacrifice upon the Altar of Eternity; ſee<g ref="char:EOLhyphen"/>ing they are to be Martyrized for ever.</p>
+               <pb n="94" facs="tcp:41021:59"/>
+               <p n="17">17. Flee, ſhun the World, in Will, and in Thought, ſeeing you are not able to ſhun it in Deed. True, every moment ſeparates you from it, in making you draw near your Grave; But in that, your Heart muſt go before your ſteps, and you muſt go ſwifter in minde, than in body, to make the way pleaſant which you are to go.</p>
+               <p n="18">18. Prevent thoſe Farewels the World is to take of you, in the Neceſſity to which you are reduced, to forſake it for ever; to the end, that the hour of your departure may be without hinderance, and without any other diſquiet, than what grief, not to have lived better, might have cauſed in you.</p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="95" facs="tcp:41021:59"/>
+               <head>
+                  <hi>CHAP. XIV.</hi> That the World is a Theatre, where every man acteth his Part in Time, for an Eter<g ref="char:EOLhyphen"/>nity.</head>
+               <p n="1">1. WHen I conſider this ſad Thea<g ref="char:EOLhyphen"/>tre of the World, wherein Time deſtroyeth all that Nature pro<g ref="char:EOLhyphen"/>duceth. I bleſs that adored Providence which hath ſo ordained it, ſeeing that the Neceſſity of Death, perſwades us of the Neccſſity of a New life.</p>
+               <p n="2">2. Although we be born free, yet Na<g ref="char:EOLhyphen"/>ture makes us ſubject to Reaſon; and though this Subjection be voluntary (as the Will hath no other object but Good) there is a far greater pleaſure in following it, than there is in ſhunning it.</p>
+               <p n="3">3. Life hath no returning; and though our Souls be Immortal, the ſecond Life which ſucceeds to the firſt, is but the Fruit of the Seed of our Labors: If we
+<pb n="96" facs="tcp:41021:60"/>walk in darkneſs here below, darkneſs will be our portion.</p>
+               <p n="4">4. The Immortality which the World promiſeth, can laſt no longer than it; and it is ſufficient that Time can mark the limits thereof to contemn it; what<g ref="char:EOLhyphen"/>ſoever is not Eternal, is unworthy to be the object of our deſires; but Eternity is to be feared, as well as deſired. And ſeeing it is unavoidable, we muſt ren<g ref="char:EOLhyphen"/>der it happy to our ſelves by a Godly life.</p>
+               <p n="5">5. How worthy of Compaſſion are ſome profound Wits! They ſpend their whole life in the ſearch of Immortality; and in the end, they finde nothing but Death Eternal. Except we be inflamed with the Fire of Charity, we cannot happily riſe again out of our Aſhes.</p>
+               <p n="6">6. You muſt never make tryal of a danger, whereof the hurt is unrecover<g ref="char:EOLhyphen"/>able: They who put their Salvation in hazard, are men wilfully unhappy, who run blind to their own deſtruction, after they have foreſeen it.</p>
+               <p n="7">7. Becauſe we can onely be good Husbands of the time preſent, we muſt employ it as it cometh; it is the onely
+<pb n="97" facs="tcp:41021:60"/>means to ſtay it, though it do continu<g ref="char:EOLhyphen"/>ally flee away, ſince that the memory of the flight thereof is pleaſant to us.</p>
+               <p n="8">8. Becauſe at death, vows are to no purpoſe, we ought to make and accom<g ref="char:EOLhyphen"/>pliſh them during Life: the occaſion of well-doing is not alwayes prefent. Though the ſeaſons be ordered, as well as the Days and Nights, yet it is not ſo with Life, becauſe the moments thereof ſucceed one to another, without ha<g ref="char:EOLhyphen"/>ving ſo much as one aſſured.</p>
+               <p n="9">9. The meer neceſſity of dying, doth perſwade Wiſemen to work out their own Salvation, while it is day, without ſtanding in need of any other Clock, to mark the hours of their work.</p>
+               <p n="10">10. Wiſe men do never ſorrow for their Life paſt, becauſe they live only to die: And though the time to come be not theirs, yet they diſpoſe of it before hand to their own advantage, in the reſolution they are, alwayes to imploy it well.</p>
+               <p n="11">11. Life hath nothing that is its own, but death: all the Goods which it in<g ref="char:EOLhyphen"/>joyeth are imaginary, becauſe they ſub<g ref="char:EOLhyphen"/>ſiſt
+<pb n="98" facs="tcp:41021:61"/>only in the Fancy. And ſeeing that ſubſiſtence depends of Time and For<g ref="char:EOLhyphen"/>tune, if This take away from us the uſe of it, That can limit the continuance thereof.</p>
+               <p n="12">12. He is happy, upon the account of Juſtice, who ſeeth himſelf die in doing of his duty: the Race of this Life, how painful ſoever it be, becom<g ref="char:EOLhyphen"/>eth pleaſant, when we run it hap<g ref="char:EOLhyphen"/>pily.</p>
+               <p n="13">13. To live but for one day, is to live a whole Age, provided we ſpend that day to good purpoſe: A thouſand years of Life are reckoned only by the laſt moment which doth finiſh it, be<g ref="char:EOLhyphen"/>cauſe that alone muſt Crown all the for<g ref="char:EOLhyphen"/>mer.</p>
+               <p n="14">14. There is nothing ſo dreadful at Death, as the remembrance of a long Life: becauſe, as we muſt give an ac<g ref="char:EOLhyphen"/>count of all our days paſt, ſeeing they are preſent with God, either to juſti<g ref="char:EOLhyphen"/>fy, or condemn them; ſo the doubt of our happineſs, or miſery, keeps our Souls on the Rack.</p>
+               <p n="15">15. We cannot go, but once, from Time to Eternity; it is a journey that
+<pb n="99" facs="tcp:41021:61"/>hath no returning; and ſeeing that all Wiſe men prepare themſelves to make it, as ſoon as they are capable of reaſon, he muſt needs be quite deprived of rea<g ref="char:EOLhyphen"/>ſon, who is ſurpriſed at the hour of re<g ref="char:EOLhyphen"/>treat.</p>
+               <p n="16">16. As the Pilgrim doth accompliſh his vow, when he puts himſelf on the way to make his Pilgrimage, ſo we be<g ref="char:EOLhyphen"/>gin to go about our Miſſion as ſoon as we are born, in the Path which we hold; it is enough that Reaſon be our Lantern, and Duty our Guide, to keep us from going aſtray, without meaſuring the paces of our Race.</p>
+               <p n="17">17. Although we do but paſs away here below, yet every man may work out his own Salvation here, in paſſing: All conſiſts in the imploying well the Time allowed us, without being ſolicitous for more, or leſs; a good life is alwayes long, though it ſhould laſt but for one moment.</p>
+               <p n="18">18. Endeavour, every day, to do<g ref="char:EOLhyphen"/>ſome good work, to the end you may in<g ref="char:EOLhyphen"/>joy what is paſt, as you do what is pre<g ref="char:EOLhyphen"/>ſent. The Wiſe man never ſearcheth in vain, for his Repoſe is in his Memory.</p>
+               <pb n="100" facs="tcp:41021:62"/>
+               <p n="19">19. Seeing that the Way which we are to hold in our Life is marked out, let us go on cheerfully, and conſider, that the more painful it be, it is the ſafer, provided that Patience be our Guide.</p>
+               <p n="20">20. Know that Death is the reward of the juſt, and the puniſhment of the Wicked; becauſe Thoſe, when they die, may lawfully hope for the Crown of their labours; but Theſe, for the chaſtiſement of their crime.</p>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="101" facs="tcp:41021:62"/>
+               <head>
+                  <hi>CHAP. XV.</hi> That the Wiſe man waiteth for Death, without either wiſh<g ref="char:EOLhyphen"/>ing or fearing it.</head>
+               <p n="1">1. HE that wiſheth for Death, hath cauſe to fear it, becauſe the guilt of his deſire, prepareth his puniſh<g ref="char:EOLhyphen"/>ment; as we are born here below, by a ſecret Order of Providence, ſo this alone can ſound our retreat: and of all the miſeries which can befall us, Deſ<g ref="char:EOLhyphen"/>peration is the greateſt.</p>
+               <p n="2">2. We ſhould never fear the Evils which we cannot avoid: becauſe Fear is a new Evill far more painfull than that which we are to incurre; and if, in theſe encounters, Nature overcome Reaſon, we ought to implore the help of Grace, becauſe it triumpheth alwayes.</p>
+               <p n="3">3. Death frights none but the Wick<g ref="char:EOLhyphen"/>ed; not, but that the Godly do fear it, but their Hope being ſtronger than their
+<pb n="102" facs="tcp:41021:63"/>Fear, the one is diminiſhed by the growth of the other.</p>
+               <p n="4">4. Wiſe Chriſtians do never diſpute with Providence: they undergo the laws thereof without repining, and how rigorous ſoever they be (ſeeing there is more glory in ſuffering, than in com<g ref="char:EOLhyphen"/>plaining) they beg for Conſtancy in their diſtreſſes, rather than for Comfort.</p>
+               <p n="5">5. They that have a love to Life, know not what they love: For, if it be a Good, the imaginary propriety and uncertain uſage thereof, make us ſenſi<g ref="char:EOLhyphen"/>bly know the contempt we ought to have of it.</p>
+               <p n="6">6. A good Life is always long, how ſhort ſoever it be; and ſeeing the great<g ref="char:EOLhyphen"/>eſt Heroes reckon their years by their Heroick acts, the wiſe Chriſtian ought to keep an account of his age, by the Good he doth.</p>
+               <p n="7">7. Although we be born here below, unwitting to us, we have liberty to live here as we pleaſe; but ſeeing that we muſt give an account of our Life, we ought to be good husbands of Time, for it conducts us to Eternity.</p>
+               <p n="8">8. Life may be juſtly compared to
+<pb n="103" facs="tcp:41021:63"/>a Dream, becauſe we live in a continual dotage, taking the falſe Good, for the reall, and the way of Vice, for the path of Vertue.</p>
+               <p n="9">9. Know, that the preparation to Death doth mitigate the fear thereof, as the continuall thoughts of it, taketh a<g ref="char:EOLhyphen"/>way the horrour; and as Experience cannot chuſe but be profitable to you, ſo the profit you ſhall receive by it, will far ſurpaſs the pains you ſhall take for it.</p>
+               <p n="10">10. If you would forſake Life with<g ref="char:EOLhyphen"/>out ſorrow, enjoy it without being tyed to it; we ſhould never think but of finiſhing our journey, ſo much the ra<g ref="char:EOLhyphen"/>ther, becauſe we cannot ſtay by the way.</p>
+               <p n="11">11. This Interval of dayes and nights, whereof our Life is compoſed, lets us ſee by the Image of Sleep, that it is ſo con<g ref="char:EOLhyphen"/>founded with Death, that it is but one and the ſame thing.</p>
+               <p n="12">12. Nature cauſeth us to be born like unto Poſts in this World, where every man carrieth the ſealed Letter of his Deſtiny, directing to Death; and ſee<g ref="char:EOLhyphen"/>ing Time leadeth us thither, if we do not go, it will pull us. This obligeth
+<pb n="104" facs="tcp:41021:64"/>us to follow our Fate, with that ſub<g ref="char:EOLhyphen"/>miſſion which becometh a creature.</p>
+               <p n="13">13. Seeing we do not live, but to die, and that we do not die, but to live a<g ref="char:EOLhyphen"/>gain; let us drive the Trade of the Vertuous man, becauſe he alone can find, at the end of his Courſe, that Eternity which he waits for.</p>
+               <p n="14">14. He that liveth only to live, doth deprive himſelf of. Hope, which is the ſole Good of Life. What would be<g ref="char:EOLhyphen"/>come of us, in the miſeries wherein we are, if we did not pretend to Eter<g ref="char:EOLhyphen"/>nal happineſs, ſeeing our Souls can never die.</p>
+               <p n="15">15. Life is not otherwiſe conſidera<g ref="char:EOLhyphen"/>ble, than by the good uſe we make of it; though you ſhould live a whole Age abounding with Riches and Hap<g ref="char:EOLhyphen"/>pineſs, if the laſt moment do not juſtify all the former, you may be reckoned in the number of the moſt miſerable men in the World.</p>
+               <p n="16">16. Every body wiſheth to live long, not conſidering that a long life, is a long receit of Time beſtowed on us, ſeeing that we muſt give an account of the imployment of our dayes. The fe<g ref="char:EOLhyphen"/>licity
+<pb n="105" facs="tcp:41021:64"/>of our Life, depends of the happi<g ref="char:EOLhyphen"/>neſs of our Death.</p>
+               <p n="17">17. Conſider, that every Age ſeeth die, all that it hath ſeen born, and that it draweth along with it, all that hath ap<g ref="char:EOLhyphen"/>peared like it, in the World, without hope of returning; becauſe the years whereof it is compoſed, are never twice counted.</p>
+               <p n="18">18. As ſoon as a man hath attained to the years of Reaſon, he liveth long enough, if he live but one day, provided that one day be well ſpent: The reſt of the Time which is allowed us, turneth to our reproach, rather than our advan<g ref="char:EOLhyphen"/>tage; if we do not ſpend it to good pur<g ref="char:EOLhyphen"/>poſe.</p>
+               <p n="19">19. When we wiſh for Death, we manifeſt our Cowardiſe, more than our Courage, becauſe this fails us, through want of reſolution to endure the me<g ref="char:EOLhyphen"/>mory of what is paſt, the trouble of what is preſent, and the fear of what is to come, whereof the only Hope of Eternity can ſufficiently inſtruct us.</p>
+               <p n="20">20. Know that the Life of Great Men is a path ſtrewed with Roſes,
+<pb n="106" facs="tcp:41021:65"/>whereof the Thorns are at the end. For, after they have ſmelled the ſweet odour of Thoſe, they muſt needs feel the ſting of Theſe.</p>
+               <p n="21">21. There is none but God and Vertue, that can prolong the Life of Man; God, in adding to it that which is to come, and Vertue, in recalling what is paſt, by the ſatisfaction we injoy in having ſpent it well.</p>
+               <p n="22">22. He that loveth Life in his miſe<g ref="char:EOLhyphen"/>ries, to ſuffer them conſtantly, hath cauſe to fear Death, becauſe in ſuffering new torments, it taketh away from him the means to acquire new Crowns.</p>
+               <p n="23">23. Live only to die, if you would live without reproach; he that thinks on that which is to come, doth not ſorrow for what is paſt, and enjoyeth what is preſent without diſquiet.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:41021:65"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
